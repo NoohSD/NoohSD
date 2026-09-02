@@ -788,28 +788,7 @@ GIT / GITHUB  █████████████████░░░░░
 ```
 
 ---
-## 🔥 GITHUB ACTIVITY
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoohSD&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=150F1E&title_color=CBA135&text_color=E9E4EE&icon_color=2E9E8B" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NoohSD&hide_border=true&background=150F1E&ring=CBA135&fire=CBA135&currStreakLabel=E9E4EE&sideLabels=E9E4EE&dates=A79BB8" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoohSD&theme=github_dark" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NoohSD&theme=github_dark&utcOffset=3" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoohSD&theme=github_dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2200&pause=700&color=2E9E8B&center=true&vCenter=true&width=700&lines=Every+commit+builds+the+system;Every+project+adds+experience;Every+problem+creates+a+better+solution;Keep+building+%E2%9A%A1" />
-</p>
 
 ---
 
