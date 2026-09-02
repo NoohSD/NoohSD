@@ -789,7 +789,11 @@ GIT / GITHUB  █████████████████░░░░░
 
 ---
 
+🔥 GITHUB ACTIVITY
 
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoohSD&bg_color=150F1E&color=E9E4EE&line=2E9E8B&point=CBA135&area=true&hide_border=true" width="95%" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoohSD&theme=dark&background=150F1E&hide_border=true" width="80%" /> </p>
 ---
 
 ## 🐍 CONTRIBUTION MOTION
