@@ -791,7 +791,6 @@ GIT / GITHUB  █████████████████░░░░░
 
 🔥 GITHUB ACTIVITY
 
-
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoohSD&theme=dark&background=150F1E&hide_border=true" width="80%" /> </p>
 ---
 
