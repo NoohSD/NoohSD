@@ -1,639 +1,758 @@
-<div align="center">
+# 👋 Hi, I'm Nooh Suliman
 
-<!-- HERO -->
+<p align="center">
+  <a href="https://github.com/NoohSD">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:150F1E,50:20162E,100:2E9E8B&height=220&section=header&text=NOOH%20SULIMAN&fontSize=58&fontColor=E9E4EE&animation=fadeIn&fontAlignY=38&desc=Senior%20Odoo%20Techno-Functional%20Consultant&descAlignY=60&descSize=20&descColor=CBA135"/>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=150F1E&height=220&section=header&text=NOOH%20SULIMAN&fontSize=58&fontColor=E9E4EE&animation=fadeIn&fontAlignY=35&desc=Senior%20Odoo%20Techno-Functional%20Consultant&descAlignY=58&descSize=20" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=2800&pause=900&color=CBA135&center=true&vCenter=true&width=850&lines=Odoo+19+Certified+%7C+Saudi+Arabia;Senior+Odoo+Techno-Functional+Consultant;ERP+Implementation+%7C+Business+Analysis;Requirements+%E2%86%92+Design+%E2%86%92+Configuration+%E2%86%92+UAT+%E2%86%92+Go-Live;Odoo+10+%E2%86%92+Odoo+19+%7C+Community+%26+Enterprise;ZATCA+%7C+Fatoora+%7C+Multi-Branch+ERP"/>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://www.odoo.com/">
+    <img src="https://img.shields.io/badge/Odoo-19%20Certified-CBA135?style=for-the-badge&logo=odoo&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/ERP-Implementation-2E9E8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Techno--Functional-Consultant-20162E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Saudi%20Arabia-🇸🇦-CBA135?style=for-the-badge"/>
+</p>
 
-<a href="https://www.odoo.com/">
-<img src="https://img.shields.io/badge/ODOO%2019-CERTIFIED-CBA135?style=for-the-badge&logo=odoo&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NoohSD">
-<img src="https://img.shields.io/badge/GITHUB-NoohSD-E9E4EE?style=for-the-badge&logo=github&logoColor=150F1E"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nooh-suliman-081a3021/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2E9E8B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-### `ERP IMPLEMENTATION` · `BUSINESS ANALYSIS` · `DIGITAL TRANSFORMATION`
-
-**5+ Years Odoo Experience**
-**Odoo 10 → 19 · Community & Enterprise · Saudi ZATCA**
-
-<br>
-
-📍 **Saudi Arabia**   •  
-📧 **[nooh8586@gmail.com](mailto:nooh8586@gmail.com)**   •  
-📱 **+966 54 369 5851**
-
-</div>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-implementation-lifecycle">Lifecycle</a> •
+  <a href="#-expertise">Expertise</a> •
+  <a href="#-selected-projects">Projects</a> •
+  <a href="#-odoo-evolution">Odoo</a> •
+  <a href="#-certifications">Certifications</a> •
+  <a href="#-contact">Contact</a>
+</p>
 
 ---
 
-# 👋 About Me
+## ⚡ LIVE PROFILE
 
-> **Business first. Odoo second.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NoohSD&label=PROFILE%20VIEWS&color=CBA135&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/NoohSD?label=FOLLOWERS&style=for-the-badge&color=2E9E8B" />
+  <img src="https://img.shields.io/github/stars/NoohSD?label=STARS&style=for-the-badge&color=CBA135" />
+</p>
 
-I am a **Senior Odoo Techno-Functional Consultant** specializing in ERP implementation, business analysis, process optimization, and digital transformation.
-
-With **5+ years of hands-on Odoo experience**, I work across the complete ERP lifecycle:
+<p align="center">
 
 ```text
-Business Requirements
-        ↓
-Business Analysis
-        ↓
-Fit-Gap Analysis
-        ↓
-Functional Design
-        ↓
-Odoo Configuration
-        ↓
-Customization & Development Coordination
-        ↓
-Data Migration
-        ↓
-Integration
-        ↓
-UAT & Testing
-        ↓
-User Training
-        ↓
-Go-Live
-        ↓
-Post-Go-Live Support
-        ↓
-Continuous Improvement
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║     BUSINESS                  ODOO                    TECHNOLOGY     ║
+║        │                        │                           │         ║
+║        ▼                        ▼                           ▼         ║
+║   Requirements ───────► Functional Design ◄──────── Customization  ║
+║        │                        │                           │         ║
+║        ▼                        ▼                           ▼         ║
+║   Process Mapping ─────► Configuration ───────► Integration       ║
+║        │                        │                           │         ║
+║        └────────────────────────┼───────────────────────────┘         ║
+║                                 ▼                                    ║
+║                              UAT                                     ║
+║                                 │                                    ║
+║                                 ▼                                    ║
+║                             GO-LIVE                                  ║
+║                                 │                                    ║
+║                                 ▼                                    ║
+║                          CONTINUOUS IMPROVEMENT                       ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-My role is to connect **business requirements, ERP processes, users, and technical teams** to deliver solutions that are practical, scalable, and maintainable.
+</p>
 
 ---
 
-# 📊 Professional Snapshot
+# 🧑‍💼 About Me
 
-<div align="center">
+I am a **Senior Odoo Techno-Functional Consultant** focused on transforming business requirements into scalable ERP solutions.
 
-| 🚀 Odoo Experience | 🧩 ERP Projects | 🏢 Branches |    👥 Training    |
-| :----------------: | :-------------: | :---------: | :---------------: |
-|    **5+ Years**    |      **7+**     |   **40+**   | **100+ Sessions** |
+My approach is simple:
 
-|   🔄 Migration   |  ⬆️ Upgrade |    🇸🇦 ZATCA    |   👥 ERP Scale   |
-| :--------------: | :---------: | :--------------: | :--------------: |
-| **Odoo 10 → 17** | **17 → 19** | **Phase I & II** | **20–80+ Users** |
+> **Business first. Odoo second. Technology when it creates value.**
 
-</div>
+I work across the complete ERP implementation lifecycle — from discovery and process analysis to configuration, customization, UAT, training, Go-Live and post-Go-Live optimization.
 
----
+### 🎯 My Focus
 
-# 🧠 What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### BUSINESS & FUNCTIONAL
-
-* Requirements Gathering
-* Business Analysis
-* Fit-Gap Analysis
-* Process Mapping
-* Functional Solution Design
-* SRS Documentation
-* Workflow Design
-* UAT Management
-* User Training
-* Change Management
-* Go-Live Management
-* Post-Go-Live Support
-
-</td>
-
-<td width="50%" valign="top">
-
-### TECHNICAL & ERP
-
-* Odoo Configuration
-* Python Customization
-* XML / QWeb
-* Custom Modules
-* PostgreSQL / SQL
-* REST API
-* XML-RPC
-* Linux / Ubuntu
-* Docker
-* Git / GitHub
-* Odoo.sh
-* System Integrations
-
-</td>
-</tr>
-</table>
+* 🧠 Business Analysis
+* 🗺️ Process Mapping
+* 🔍 Fit-Gap Analysis
+* 🧩 Functional Solution Design
+* ⚙️ Odoo Configuration
+* 🛠️ Customization Coordination
+* 🧪 UAT & Testing
+* 🚀 Go-Live
+* 👨‍🏫 End-User Training
+* 🔄 Data Migration
+* 🇸🇦 ZATCA / Fatoora
+* 🏢 Multi-Branch ERP
+* 🔗 Third-Party Integrations
 
 ---
 
-# 📦 Odoo Expertise
+# 📊 Experience at a Glance
 
-<div align="center">
+<p align="center">
 
-<img src="https://img.shields.io/badge/SALES-714B67?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRM-714B67?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PURCHASE-714B67?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INVENTORY-714B67?style=for-the-badge"/>
+| 🚀 Experience | 🏢 ERP Projects | 🌐 Branches |   👨‍🏫 Training  |
+| :-----------: | :-------------: | :---------: | :---------------: |
+|  **5+ Years** |      **7+**     |   **40+**   | **100+ Sessions** |
 
-<br>
+</p>
 
-<img src="https://img.shields.io/badge/ACCOUNTING-2E9E8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POS-2E9E8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MANUFACTURING-2E9E8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROJECTS-2E9E8B?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/HR-CBA135?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ATTENDANCE-CBA135?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TIMESHEETS-CBA135?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEBSITE-CBA135?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STUDIO-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KNOWLEDGE-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SUBSCRIPTIONS-555555?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoohSD&show_icons=true&hide_border=true&bg_color=150F1E&title_color=CBA135&icon_color=2E9E8B&text_color=E9E4EE&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoohSD&layout=compact&hide_border=true&bg_color=150F1E&title_color=CBA135&text_color=E9E4EE" height="180"/>
+</p>
 
 ---
 
-# 🔧 Technology Stack
+# 🧭 Implementation Lifecycle
 
-<div align="center">
+<details>
+<summary><strong>01 · 🔎 Requirements Analysis</strong></summary>
 
-<img src="https://skillicons.dev/icons?i=python,bash,html,postgresql,linux,docker,git,github&theme=dark"/>
+### Understand before configuring.
 
-<br><br>
+I start by understanding:
 
-<img src="https://img.shields.io/badge/Odoo%2010%20→%2019-714B67?style=flat-square&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-CBA135?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2E9E8B?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+* Current business processes
+* Pain points
+* Existing systems
+* User roles
+* Approval flows
+* Reporting requirements
+* Compliance requirements
+* Integration requirements
 
-</div>
+**Output:** Business Requirements + Functional Requirements
 
----
+</details>
 
-# 🔄 Implementation Methodology
+<details>
+<summary><strong>02 · 🗺️ Process Mapping</strong></summary>
 
-<table>
-<tr>
-<td align="center">01<br><b>REQUIREMENTS</b></td>
-<td align="center">02<br><b>ANALYSIS</b></td>
-<td align="center">03<br><b>FIT-GAP</b></td>
-<td align="center">04<br><b>DESIGN</b></td>
-</tr>
+I translate business operations into clear workflows:
 
-<tr>
-<td align="center">05<br><b>CONFIGURATION</b></td>
-<td align="center">06<br><b>CUSTOMIZATION</b></td>
-<td align="center">07<br><b>MIGRATION</b></td>
-<td align="center">08<br><b>INTEGRATION</b></td>
-</tr>
+`AS-IS → TO-BE → Odoo Process`
 
-<tr>
-<td align="center">09<br><b>UAT</b></td>
-<td align="center">10<br><b>TRAINING</b></td>
-<td align="center">11<br><b>GO-LIVE</b></td>
-<td align="center">12<br><b>OPTIMIZATION</b></td>
-</tr>
-</table>
+Typical areas:
 
-> **The objective is not simply to go live.
-> The objective is to create an ERP environment that users trust and the business can scale with.**
-
----
-
-# 🏢 Selected ERP Implementations
-
-## 🟢 Nesco Company
-
-**Odoo 18 · 30+ Users**
-
-| Area        | Experience                                     |
-| ----------- | ---------------------------------------------- |
-| ERP         | Accounting · Sales · Purchase · Inventory · HR |
-| Compliance  | ZATCA                                          |
-| Integration | Biometric Attendance                           |
-| Automation  | Business Workflows                             |
-| Delivery    | UAT · Training · Go-Live                       |
-
----
-
-## 🔵 Al-Hadithi Medical Company
-
-**Odoo 19 · 50+ Users**
-
-`Inventory` `Sales` `Accounting` `Purchasing`
-
-### Focus
-
-* Inventory management
-* Sales processes
-* Accounting workflows
-* Purchasing workflows
-* User training
-* UAT
-* Go-Live support
-
----
-
-## 🟣 Abhaj Contracting
-
-**Odoo 19 · 30+ Users**
-
-`Projects` `Procurement` `Financial Management`
-
-### Focus
-
-* Project management
-* Procurement workflows
-* Financial management
-* Reporting
-* Process optimization
-
----
-
-## 🟠 NPS Manufacturing
-
-**Odoo 18 · 15+ Users**
-
-`Manufacturing` `Inventory` `Sales`
-
-### Focus
-
-* Manufacturing workflows
-* BOM configuration
-* Product configuration
-* Inventory operations
-* Sales integration
-* Production processes
-
----
-
-## 🟡 Unitedest Pest Control
-
-**Odoo 17 · 20+ Users**
-
-`CRM` `Sales` `Accounting`
-
-### Focus
-
+* Sales
+* Purchase
+* Inventory
+* Accounting
+* Manufacturing
+* HR
 * CRM
+* POS
+* Projects
+
+**Output:** Process Maps + Workflow Definitions
+
+</details>
+
+<details>
+<summary><strong>03 · 🔍 Fit-Gap Analysis</strong></summary>
+
+Every requirement is classified as:
+
+```text
+STANDARD ODOO
+     │
+     ├── YES ──► CONFIGURATION
+     │
+     └── NO
+          │
+          ├── WORKAROUND
+          │
+          └── CUSTOMIZATION
+```
+
+The goal is to minimize unnecessary customization while preserving the business requirement.
+
+</details>
+
+<details>
+<summary><strong>04 · 🧩 Functional Solution Design</strong></summary>
+
+I define:
+
+* Functional architecture
+* User roles
+* Security rules
+* Approval workflows
+* Accounting flows
+* Operational workflows
+* Reports
+* Integrations
+* Customization requirements
+
+**Output:** Functional Specification
+
+</details>
+
+<details>
+<summary><strong>05 · ⚙️ Configuration & Customization</strong></summary>
+
+Configuration comes first.
+
+When customization is required, I coordinate with development teams around:
+
+* Python
+* XML
+* JavaScript
+* PostgreSQL
+* Odoo ORM
+* Automated actions
+* API integrations
+
+</details>
+
+<details>
+<summary><strong>06 · 🧪 Testing & UAT</strong></summary>
+
+Testing follows real business scenarios:
+
+```text
+Functional Testing
+       ↓
+Integration Testing
+       ↓
+User Acceptance Testing
+       ↓
+Bug Fixing
+       ↓
+Regression Testing
+       ↓
+UAT Sign-Off
+```
+
+</details>
+
+<details>
+<summary><strong>07 · 🚀 Training & Go-Live</strong></summary>
+
+Final implementation phase:
+
+* User training
+* Documentation
+* Master data validation
+* Opening balances
+* Migration validation
+* Go-Live preparation
+* Production deployment
+* Post-Go-Live support
+
+</details>
+
+---
+
+# 🧠 Expertise
+
+## 💼 Functional
+
+<p align="center">
+
+`Business Analysis` `Requirements Gathering` `Fit-Gap Analysis`
+
+`Process Mapping` `Functional Design` `UAT`
+
+`ERP Implementation` `Go-Live` `Training`
+
+`Documentation` `Workflow Design` `Project Coordination`
+
+</p>
+
+---
+
+## 🧩 Odoo Apps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,linux,docker,git,github,bash,html,css,js" />
+
+</p>
+
+<p align="center">
+
+**Sales** · **CRM** · **Purchase** · **Inventory** · **Accounting**
+
+**POS** · **Manufacturing** · **Projects** · **HR** · **Timesheets**
+
+**Website** · **Subscriptions** · **Studio** · **Knowledge** · **Attendance**
+
+</p>
+
+---
+
+## 🛠️ Technical
+
+```text
+Python             █████████████████░░░  Functional Customization
+XML                ██████████████████░░  Views & Configuration
+PostgreSQL         ███████████████░░░░░  Database & Data
+JavaScript         ████████████░░░░░░░░  Odoo Web/POS Customization
+Linux              ██████████████████░░  Server Administration
+Docker             ████████████████░░░░  Containerized Odoo
+Git / GitHub       ███████████████████░  Version Control
+REST / XML-RPC     ██████████████░░░░░░  Integrations
+Odoo.sh            █████████████████░░░  Deployment
+```
+
+---
+
+# 🇸🇦 ZATCA & Saudi E-Invoicing
+
+One of my key implementation areas is Saudi e-invoicing.
+
+### ZATCA Phase I & II
+
+```text
+Odoo
+  │
+  ▼
+Invoice
+  │
+  ├── Seller Information
+  ├── Buyer Information
+  ├── VAT
+  ├── Invoice Number
+  ├── QR Code
+  └── Digital Signature
+          │
+          ▼
+       ZATCA
+          │
+          ▼
+      Compliance
+```
+
+Experience includes:
+
+* 🇸🇦 Saudi VAT
+* 🧾 Fatoora
+* 🔐 Digital Signature
+* 📱 QR Codes
+* 🔗 ZATCA Integration
+* 🏢 Multi-Branch Scenarios
+* 📊 Centralized Reporting
+* 🔄 Invoice Sequence Management
+
+---
+
+# 🏢 Multi-Branch ERP
+
+### 40+ Branch Environment
+
+```text
+                       CENTRAL ERP
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+          BRANCH 01     BRANCH 02     BRANCH 03
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                           ▼
+                  CENTRALIZED REPORTING
+                           │
+                           ▼
+                    ACCOUNTING / VAT
+                           │
+                           ▼
+                         ZATCA
+```
+
+Key challenges handled:
+
+* Branch data consistency
+* POS operations
+* Centralized reporting
+* Inventory synchronization
+* Accounting flows
+* VAT
+* ZATCA compliance
+* Invoice sequencing
+* User access control
+
+---
+
+# 🚀 Selected Projects
+
+<details>
+<summary><strong>🏥 Nesco Company · Odoo 18 · 30+ Users</strong></summary>
+
+### Full ERP Implementation
+
+**Scope**
+
+* Sales
+* Purchase
+* Inventory
+* Accounting
+* HR
+* ZATCA
+* Biometric Integration
+* Custom Workflows
+
+**Role:** Odoo Techno-Functional Consultant
+
+**Focus:** Requirements → Solution Design → Configuration → Customization Coordination → UAT → Training → Go-Live
+
+</details>
+
+<details>
+<summary><strong>🏥 Al-Hadithi Medical Company · Odoo 19 · 50+ Users</strong></summary>
+
+### Medical / Healthcare ERP
+
+**Modules**
+
+* Inventory
 * Sales
 * Accounting
-* Customer workflows
-* Service operations
+* Purchasing
 
----
+**Focus**
 
-## ☁️ IDNS — Odoo.sh Upgrade
+* Process optimization
+* Configuration
+* User roles
+* Reporting
+* UAT
+* Training
 
-### Odoo 17 → Odoo 19
+</details>
 
-`Odoo.sh` `Custom Modules` `ZATCA` `Reporting`
+<details>
+<summary><strong>🦺 Unitedest Pest Control · Odoo 17 · 20 Users</strong></summary>
 
-### Scope
+### Service Business ERP
 
-* Odoo.sh upgrade
+**Modules**
+
+* Sales
+* CRM
+* Accounting
+
+**Focus**
+
+* Lead-to-Sale workflow
+* Customer management
+* Sales process
+* Financial integration
+
+</details>
+
+<details>
+<summary><strong>🏭 NPS Manufacturing · Odoo 18 · 15 Users</strong></summary>
+
+### Manufacturing ERP
+
+**Modules**
+
+* Manufacturing
+* Inventory
+* Sales
+
+**Focus**
+
+* Manufacturing workflows
+* Inventory operations
+* Production processes
+* Sales integration
+
+</details>
+
+<details>
+<summary><strong>🏗️ Abhaj Contracting · Odoo 19 · 30 Users</strong></summary>
+
+### Contracting ERP
+
+**Modules**
+
+* Projects
+* Procurement
+* Financial Management
+
+**Focus**
+
+* Project workflows
+* Procurement
+* Financial control
+* Operational reporting
+
+</details>
+
+<details>
+<summary><strong>☁️ IDNS · Odoo 17 → 19 · Odoo.sh</strong></summary>
+
+### Upgrade & Optimization
+
+**Scope**
+
+* Odoo upgrade
 * Custom module compatibility
-* Functional validation
 * ZATCA
 * Reporting
-* Testing
 * Training
-* Post-upgrade support
+* Deployment
 
----
-
-# 🇸🇦 Saudi ERP & ZATCA
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ZATCA-PHASE%20I-CBA135?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ZATCA-PHASE%20II-2E9E8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SAUDI-VAT-714B67?style=for-the-badge"/>
-
-</div>
-
-### Experience
-
-* 🇸🇦 ZATCA Phase I
-* 🇸🇦 ZATCA Phase II
-* 🧾 Saudi VAT configuration
-* 🔐 Electronic invoicing
-* 📱 QR Code requirements
-* 🔗 ZATCA integration
-* 🏢 Multi-branch invoicing
-* 📊 Accounting & compliance workflows
-
-### Multi-Branch Experience
-
-One of my strongest ERP implementation experiences involved supporting an organization operating across:
-
-# **40+ Branches**
-
-with centralized ERP operations covering:
-
-`POS` · `Inventory` · `Accounting` · `Sales` · `Purchasing`
-
-`Manufacturing` · `CRM` · `Reporting` · `ZATCA`
-
----
-
-# 🌍 Industry Experience
-
-<div align="center">
-
-| 🏭 Manufacturing |    🏥 Healthcare   |
-| :--------------: | :----------------: |
-|    Production    | Medical Operations |
-|     Inventory    |        Sales       |
-|        BOM       |     Accounting     |
-
-| 🛒 Retail |   🏗️ Construction   |
-| :-------: | :------------------: |
-|    POS    |       Projects       |
-| Inventory |      Procurement     |
-|   Sales   | Financial Management |
-
-| 🧹 Field Services | 💼 Professional Services |
-| :---------------: | :----------------------: |
-|        CRM        |    Business Processes    |
-|       Sales       |    ERP Transformation    |
-|     Accounting    |    Workflow Automation   |
-
-</div>
-
----
-
-# 🧩 Business → Odoo → Technology
+**Migration**
 
 ```text
-┌──────────────────────────────┐
-│       BUSINESS NEED          │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│      BUSINESS ANALYSIS       │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│       FIT / GAP ANALYSIS     │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│      FUNCTIONAL DESIGN       │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│       ODOO SOLUTION          │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ CONFIGURATION / CUSTOMIZATION│
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│       UAT / TESTING          │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│       USER TRAINING          │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│          GO-LIVE             │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│    CONTINUOUS IMPROVEMENT    │
-└──────────────────────────────┘
-```
-
----
-
-# 📚 Odoo Version Journey
-
-<div align="center">
-
-`Odoo 10`
-→
-`11`
-→
-`12`
-→
-`13`
-→
-`14`
-→
-`15`
-→
-`16`
-→
-`17`
-→
-`18`
-→
-`19`
-
-### Community + Enterprise
-
-</div>
-
-| Version     | Experience                                  |
-| ----------- | ------------------------------------------- |
-| **Odoo 10** | Early Odoo environments                     |
-| **Odoo 11** | Community deployments & customization       |
-| **Odoo 12** | Module development & support                |
-| **Odoo 13** | Functional configuration                    |
-| **Odoo 14** | Community & Enterprise                      |
-| **Odoo 15** | ERP implementation projects                 |
-| **Odoo 16** | Full-cycle Enterprise implementations       |
-| **Odoo 17** | ERP implementation + Odoo.sh upgrade source |
-| **Odoo 18** | Nesco & NPS Manufacturing                   |
-| **Odoo 19** | Al-Hadithi Medical & Abhaj Contracting      |
-
----
-
-# 🔌 Integrations & Automation
-
-<div align="center">
-
-### 🔐 ZATCA
-
-Saudi Electronic Invoicing & Compliance
-
-### 🧑‍💼 Biometric
-
-Attendance Device Integration
-
-### 🔗 APIs
-
-REST API · XML-RPC · External Systems
-
-### 🤖 Automation
-
-Workflow Automation · Business Process Optimization
-
-### 📊 Reporting
-
-Custom Reports · Business Intelligence Support
-
-</div>
-
----
-
-# 🎓 Certifications & Education
-
-<div align="center">
-
-|       Year       | Credential                                       |
-| :--------------: | ------------------------------------------------ |
-|    🥇 **2026**   | **Odoo 19 Functional Certification**             |
-| 🎓 **2014–2020** | **B.Sc. Computer Science & Information Systems** |
-|    📜 **2024**   | **Google IT Support Professional Certificate**   |
-|    📜 **2024**   | **Odoo Technical Program**                       |
-|    📜 **2022**   | **Odoo Functional Training**                     |
-
-</div>
-
----
-
-# 💡 My ERP Philosophy
-
-> ### **ERP is not about software.**
->
-> ### **ERP is about business processes.**
-
-I start with the **business problem**, not the module.
-
-My approach:
-
-```text
-Problem
-  ↓
-Process
-  ↓
-Requirement
-  ↓
-Solution
-  ↓
-Odoo
-  ↓
+Odoo 17
+   │
+   ▼
+Compatibility Analysis
+   │
+   ▼
+Custom Modules
+   │
+   ▼
 Testing
-  ↓
-Training
-  ↓
-Go-Live
-  ↓
-Optimization
+   │
+   ▼
+Odoo 19
+   │
+   ▼
+UAT → Go-Live
 ```
 
-The final solution should be:
-
-**✓ Easy for users**
-
-**✓ Reliable for management**
-
-**✓ Maintainable for developers**
-
-**✓ Scalable for the business**
+</details>
 
 ---
 
-# 💼 Professional Strengths
+# 🕐 Odoo Evolution
 
-<div align="center">
+<p align="center">
 
-|       BUSINESS       |    TECHNICAL   |    DELIVERY    |
-| :------------------: | :------------: | :------------: |
-|   Business Analysis  |  Python / XML  | Implementation |
-|     Requirements     |   PostgreSQL   |       UAT      |
-|    Process Mapping   | REST / XML-RPC |     Go-Live    |
-|   Functional Design  | Docker / Linux |    Training    |
-| Client Communication |  Git / Odoo.sh |     Support    |
-|     Documentation    | Custom Modules |  Optimization  |
+```text
+Odoo 10
+   │
+   ▼
+Odoo 11
+   │
+   ▼
+Odoo 12
+   │
+   ▼
+Odoo 13
+   │
+   ▼
+Odoo 14
+   │
+   ▼
+Odoo 15
+   │
+   ▼
+Odoo 16
+   │
+   ▼
+Odoo 17
+   │
+   ▼
+Odoo 18
+   │
+   ▼
+Odoo 19 ⭐
+```
 
-</div>
+### My journey
+
+| Version | Experience     |
+| ------- | -------------- |
+| Odoo 10 | 🟢 Experienced |
+| Odoo 11 | 🟢 Experienced |
+| Odoo 12 | 🟢 Experienced |
+| Odoo 13 | 🟢 Experienced |
+| Odoo 14 | 🟢 Experienced |
+| Odoo 15 | 🟢 Experienced |
+| Odoo 16 | 🟢 Experienced |
+| Odoo 17 | 🔥 Advanced    |
+| Odoo 18 | 🔥 Advanced    |
+| Odoo 19 | ⭐ Certified    |
+
+---
+
+# 🏆 Certifications
+
+<details>
+<summary><strong>⭐ Odoo 19 Functional Certification · 2026</strong></summary>
+
+**Odoo 19 Functional Certification**
+
+ERP Functional Expertise
+
+</details>
+
+<details>
+<summary><strong>🎓 B.Sc. Computer Science & Information Systems · 2014–2020</strong></summary>
+
+Omdurman Islamic University
+
+Faculty of Computer Science and Information Systems
+
+</details>
+
+<details>
+<summary><strong>☁️ Google IT Support Professional Certificate · 2024</strong></summary>
+
+Coursera / Google
+
+</details>
+
+<details>
+<summary><strong>⚙️ Odoo Technical Program · 2024</strong></summary>
+
+Odoo Technical Training
+
+</details>
+
+---
+
+# 🔥 What I Bring
+
+```text
+                  ┌─────────────────────┐
+                  │       BUSINESS      │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │   BUSINESS ANALYSIS │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │   ODOO FUNCTIONAL   │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │ TECHNICAL COORDINATION│
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │      TEST / UAT     │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │       GO-LIVE       │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │ CONTINUOUS IMPROVEMENT│
+                  └─────────────────────┘
+```
 
 ---
 
 # 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoohSD&bg_color=150F1E&color=E9E4EE&line=2E9E8B&point=CBA135&area=true&hide_border=true" width="95%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NoohSD&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoohSD&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoohSD&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NoohSD&theme=transparent&hide_border=true&ring=CBA135&fire=2E9E8B&currStreakLabel=E9E4EE&sideLabels=A79BB8&dates=A79BB8" width="70%"/>
+</p>
 
 ---
 
-# 📫 Let's Connect
+# 💻 Development Philosophy
 
-<div align="center">
+> **Don't customize Odoo just because you can. Customize it when the business actually needs it.**
 
-### Looking for someone who understands both **Business & Technology**?
+My preferred implementation strategy:
 
-<br>
+```text
+                 STANDARD ODOO
+                      │
+                      ▼
+                 CONFIGURATION
+                      │
+                      ▼
+                  WORKAROUND
+                      │
+                      ▼
+                CUSTOMIZATION
+                      │
+                      ▼
+                 INTEGRATION
+```
 
-**Odoo ERP Implementation**
-**Techno-Functional Consulting**
-**Business Analysis**
-**ERP Transformation**
-**Digital Transformation**
+### The goal?
 
-<br>
+**Maximum business value with minimum unnecessary complexity.**
 
-<a href="mailto:nooh8586@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-nooh8586%40gmail.com-CBA135?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/nooh-suliman-081a3021/">
-<img src="https://img.shields.io/badge/LINKEDIN-NOOH%20SULIMAN-2E9E8B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 🌍 Industries
+
+<p align="center">
+
+🏭 Manufacturing
+🏥 Healthcare / Medical
+🛒 Retail
+🏗️ Construction
+🧹 Service / Pest Control
+🏢 Multi-Branch Organizations
+
+</p>
+
+---
+
+# 🔗 Let's Connect
+
+<p align="center">
 
 <a href="https://github.com/NoohSD">
-<img src="https://img.shields.io/badge/GITHUB-NoohSD-714B67?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-NoohSD-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/nooh-suliman-081a302a1/">
+<img src="https://img.shields.io/badge/LinkedIn-Nooh%20Suliman-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nooh8586@gmail.com">
+<img src="https://img.shields.io/badge/Email-nooh8586%40gmail.com-CBA135?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+# 🚀 Interactive Portfolio
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=150F1E&height=120&section=footer" width="100%"/>
+<p align="center">
 
-### **NOOH SULIMAN**
+<a href="https://github.com/NoohSD">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20MY%20INTERACTIVE%20PORTFOLIO-CBA135?style=for-the-badge&labelColor=150F1E"/>
+</a>
 
-**Senior Odoo Techno-Functional Consultant**
+</p>
 
-`Odoo` · `ERP` · `Business Analysis` · `ZATCA` · `Digital Transformation`
+> **Full interactive portfolio coming with animated sections, project navigation, lifecycle interactions, counters, version timeline and more.**
 
-<br>
+---
 
-**Turning Business Requirements into Scalable ERP Solutions.**
+<p align="center">
 
-</div>
+### 💬 Business First. Odoo Second. Results Always.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9E8B,50:20162E,100:150F1E&height=140&section=footer&animation=fadeIn"/>
+
+</p>
