@@ -788,34 +788,67 @@ GIT / GITHUB  █████████████████░░░░░
 ```
 
 ---
-
-# 🔥 GITHUB ACTIVITY
+## 🔥 GITHUB ACTIVITY
 
 <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NoohSD&bg_color=150F1E&color=E9E4EE&line=2E9E8B&point=CBA135&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=NoohSD&bg_color=150F1E&color=E9E4EE&line=2E9E8B&point=CBA135&area=true&hide_border=true"
-width="95%"
-/>
-
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NoohSD&theme=dark&background=150F1E&hide_border=true"
+    width="80%"
+  />
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION MOTION
+## 🐍 CONTRIBUTION MOTION
 
 <p align="center">
-
-<img
-src="https://raw.githubusercontent.com/NoohSD/NoohSD/output/github-contribution-grid-snake.svg"
-width="95%"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/NoohSD/NoohSD/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
 </p>
 
-> If the snake image is not available yet, enable the GitHub Action described below.
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoohSD&theme=github_dark"
+    width="95%"
+  />
+</p>
 
 ---
+
+## ⚡ LIVE CONTRIBUTION FLOW
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                 ⚡ NOOH SULIMAN                          ║
+║            GITHUB CONTRIBUTION SYSTEM                   ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   💻 CODE  ──────►  🔀 COMMIT  ──────►  🚀 PUSH        ║
+║      │                                      │            ║
+║      ▼                                      ▼            ║
+║   🧪 TEST  ◄──────  ⚙️ AUTOMATION  ◄──── 🐙 GITHUB     ║
+║      │                                                   ║
+║      ▼                                                   ║
+║   📊 ACTIVITY ──────► 📈 PROGRESS ──────► 🏆 GROWTH    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2200&pause=700&color=2E9E8B&center=true&vCenter=true&width=700&lines=Every+commit+builds+the+system;Every+project+adds+experience;Every+problem+creates+a+better+solution;Keep+building+%E2%9A%A1"
+  />
+</p>
 
 # 💡 IMPLEMENTATION PHILOSOPHY
 
