@@ -1,1057 +1,430 @@
-<!-- ========================================================= -->
-
-<!--                    NOOH SULIMAN                           -->
-
-<!--              GITHUB PROFILE README                       -->
-
-<!-- ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:150F1E,50:291D3B,100:2E9E8B&text=NOOH%20SULIMAN&fontSize=58&fontColor=E9E4EE&fontAlignY=38&animation=twinkling&desc=Senior%20Odoo%20Techno-Functional%20Consultant&descAlignY=62&descSize=18&descColor=CBA135"
-    width="100%"
-  />
-</p>
-
-<br>
-
-<!-- ====================== ANIMATED NAME ====================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=1400&pause=600&color=CBA135&center=true&vCenter=true&width=900&height=80&lines=NOOH+SULIMAN;ODOO+19+CERTIFIED;SENIOR+ODOO+TECHNO-FUNCTIONAL+CONSULTANT;ERP+IMPLEMENTATION+SPECIALIST"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2400&pause=600&color=2E9E8B&center=true&vCenter=true&width=950&height=50&lines=Business+First+%E2%80%A2+Odoo+Second+%E2%80%A2+Technology+When+It+Creates+Value;Requirements+%E2%86%92+Analysis+%E2%86%92+Design+%E2%86%92+Configuration+%E2%86%92+UAT+%E2%86%92+Go-Live;Odoo+10+%E2%86%92+Odoo+19+%7C+Community+%26+Enterprise;ZATCA+%7C+Fatoora+%7C+Multi-Branch+ERP"
-  />
-</p>
-
-<br>
-
-<!-- ======================== BADGES ========================== -->
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ODOO-19%20CERTIFIED-CBA135?style=for-the-badge&logo=odoo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ERP-IMPLEMENTATION-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TECHNO--FUNCTIONAL-291D3B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SAUDI%20ARABIA-🇸🇦-CBA135?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ZATCA-PHASE%20I%20%26%20II-2E9E8B?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Odoo%2010→19-EXPERIENCE-CBA135?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/40%2B-BRANCHES-2E9E8B?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/7%2B-ERP%20PROJECTS-CBA135?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/100%2B-TRAINING%20SESSIONS-2E9E8B?style=flat-square"/>
-
-</p>
-
-<br>
-
----
-
-# ⚡ LIVE PROFILE
-
-<p align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=NoohSD&label=PROFILE%20VIEWS&color=CBA135&style=for-the-badge"
-/>
-
-<img
-src="https://img.shields.io/github/followers/NoohSD?label=FOLLOWERS&style=for-the-badge&color=2E9E8B"
-/>
-
-<img
-src="https://img.shields.io/github/stars/NoohSD?label=STARS&style=for-the-badge&color=CBA135"
-/>
-
-<img
-src="https://img.shields.io/github/last-commit/NoohSD/NoohSD?label=LAST%20UPDATE&style=for-the-badge&color=2E9E8B"
-/>
-
-</p>
-
-<br>
-
-<!-- ===================== LIVE COUNTERS ======================= -->
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=NoohSD&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=150F1E&title_color=CBA135&icon_color=2E9E8B&text_color=E9E4EE&rank_icon=github"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoohSD&layout=compact&hide_border=true&bg_color=150F1E&title_color=CBA135&text_color=E9E4EE"
-height="180"
-/>
-
-</p>
-
-<br>
-
-<!-- ======================= STREAK ============================ -->
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=NoohSD&theme=transparent&hide_border=true&ring=CBA135&fire=2E9E8B&currStreakLabel=E9E4EE&sideLabels=A79BB8&dates=A79BB8"
-width="700"
-/>
-
-</p>
-
----
-
-# 🧑‍💼 ABOUT ME
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2800&pause=700&color=2E9E8B&center=true&vCenter=true&width=950&height=60&lines=I+turn+business+requirements+into+scalable+ERP+solutions.;I+bridge+Business+%E2%86%94+Functional+%E2%86%94+Technical+teams.;I+design+solutions+around+business+value.;I+focus+on+implementation%2C+optimization+and+results."
-/>
-
-</p>
-
-> **Business First. Odoo Second. Technology when it creates value.**
-
-I am a **Senior Odoo Techno-Functional Consultant** focused on transforming business requirements into practical, scalable and maintainable ERP solutions.
-
-My approach combines:
-
-```text
-┌──────────────────────────────────────────────┐
-│              BUSINESS                        │
-│                    ↓                         │
-│          REQUIREMENTS ANALYSIS               │
-│                    ↓                         │
-│           PROCESS MAPPING                    │
-│                    ↓                         │
-│             FIT-GAP ANALYSIS                 │
-│                    ↓                         │
-│          FUNCTIONAL SOLUTION                 │
-│                    ↓                         │
-│        ODOO CONFIGURATION                    │
-│                    ↓                         │
-│       CUSTOMIZATION / INTEGRATION            │
-│                    ↓                         │
-│              UAT / TESTING                   │
-│                    ↓                         │
-│             TRAINING                         │
-│                    ↓                         │
-│             GO-LIVE 🚀                       │
-│                    ↓                         │
-│             OPTIMIZATION                     │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# 📊 PROFESSIONAL SNAPSHOT
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1800&pause=500&color=CBA135&center=true&vCenter=true&width=900&height=55&lines=5%2B+YEARS;7%2B+ERP+IMPLEMENTATIONS;40%2B+BRANCHES;100%2B+TRAINING+SESSIONS;ODOO+10+→+19;ZATCA+PHASE+I+%26+II"/>
-
-</p>
-
-| ⚡ AREA                 | 📈 EXPERIENCE                           |
-| ---------------------- | --------------------------------------- |
-| 🧠 ERP Experience      | **5+ Years**                            |
-| 🚀 ERP Implementations | **7+ Projects**                         |
-| 🏢 Multi-Branch        | **40+ Branches**                        |
-| 👨‍🏫 Training         | **100+ Sessions**                       |
-| 🇸🇦 ZATCA             | **Phase I & II**                        |
-| 🔄 Odoo Versions       | **10 → 19**                             |
-| ☁️ Odoo.sh             | **Upgrade & Deployment**                |
-| 🧩 Customization       | **Functional + Technical Coordination** |
-
----
-
-# 🧭 IMPLEMENTATION LIFECYCLE
-
-<details>
-<summary>🔎 <strong>01 — REQUIREMENTS ANALYSIS</strong></summary>
-
-<br>
-
-I start with the business — not the software.
-
-### Focus
-
-* Business requirements
-* Existing processes
-* Pain points
-* User roles
-* Approval flows
-* Reporting
-* Compliance
-* Integrations
-* Data requirements
-
-### Output
-
-```text
-Business Requirements
-        +
-Functional Requirements
-        +
-Technical Requirements
-```
-
-</details>
-
-<details>
-<summary>🗺️ <strong>02 — PROCESS MAPPING</strong></summary>
-
-<br>
-
-```text
-CURRENT PROCESS
-      ↓
-AS-IS ANALYSIS
-      ↓
-PROBLEM IDENTIFICATION
-      ↓
-TO-BE PROCESS
-      ↓
-ODOO WORKFLOW
-```
-
-The objective is to simplify the business process before implementing it inside Odoo.
-
-</details>
-
-<details>
-<summary>🔍 <strong>03 — FIT-GAP ANALYSIS</strong></summary>
-
-<br>
-
-```text
-                  REQUIREMENT
-                       │
-                       ▼
-                 STANDARD ODOO?
-                  /          \
-                YES           NO
-                │              │
-                ▼              ▼
-          CONFIGURATION     WORKAROUND
-                               │
-                               ▼
-                         CUSTOMIZATION
-```
-
-I always evaluate standard functionality first.
-
-</details>
-
-<details>
-<summary>🧩 <strong>04 — FUNCTIONAL SOLUTION DESIGN</strong></summary>
-
-<br>
-
-### Solution Design Includes
-
-* Functional architecture
-* User roles
-* Security
-* Approval workflows
-* Accounting flows
-* Operational workflows
-* Reports
-* Dashboards
-* Integrations
-* Customization requirements
-
-</details>
-
-<details>
-<summary>⚙️ <strong>05 — CONFIGURATION & CUSTOMIZATION</strong></summary>
-
-<br>
-
-### Configuration First
-
-```text
-STANDARD ODOO
-     ↓
-CONFIGURATION
-     ↓
-AUTOMATION
-     ↓
-STUDIO / LOW CODE
-     ↓
-CUSTOM DEVELOPMENT
-```
-
-Customization is introduced only when it creates measurable business value.
-
-### Technical Coordination
-
-`Python` · `XML` · `JavaScript` · `PostgreSQL` · `Odoo ORM` · `REST API`
-
-</details>
-
-<details>
-<summary>🧪 <strong>06 — TESTING / UAT</strong></summary>
-
-<br>
-
-```text
-FUNCTIONAL TESTING
-        ↓
-INTEGRATION TESTING
-        ↓
-USER ACCEPTANCE TESTING
-        ↓
-BUG FIXING
-        ↓
-REGRESSION TESTING
-        ↓
-UAT SIGN-OFF
-```
-
-</details>
-
-<details>
-<summary>🚀 <strong>07 — TRAINING & GO-LIVE</strong></summary>
-
-<br>
-
-```text
-TRAINING
-   ↓
-MASTER DATA
-   ↓
-MIGRATION
-   ↓
-VALIDATION
-   ↓
-GO-LIVE
-   ↓
-HYPERCARE
-   ↓
-SUPPORT
-   ↓
-OPTIMIZATION
-```
-
-</details>
-
----
-
-# 🧠 CORE EXPERTISE
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,linux,docker,git,github,bash,html,css,js&perline=10"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/BUSINESS%20ANALYSIS-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REQUIREMENTS-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FIT--GAP-291D3B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FUNCTIONAL%20DESIGN-CBA135?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/UAT-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GO--LIVE-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PROCESS%20MAPPING-291D3B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CLIENT%20TRAINING-2E9E8B?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🧩 ODOO APPS
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SALES-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CRM-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PURCHASE-291D3B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/INVENTORY-CBA135?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ACCOUNTING-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/POS-291D3B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MANUFACTURING-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PROJECTS-2E9E8B?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HR-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TIMESHEETS-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WEBSITE-291D3B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/STUDIO-CBA135?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ATTENDANCE-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SUBSCRIPTIONS-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/KNOWLEDGE-291D3B?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🇸🇦 ZATCA / FATOORA
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=2200&pause=600&color=CBA135&center=true&vCenter=true&width=900&height=55&lines=SAUDI+VAT;ZATCA+PHASE+I;ZATCA+PHASE+II;FATOORA+E-INVOICING;QR+CODE;DIGITAL+SIGNATURE;INVOICE+COMPLIANCE"
-/>
-
-</p>
-
-```text
-                       ODOO
-                         │
-                         ▼
-                     INVOICE
-                         │
-              ┌──────────┼──────────┐
-              │          │          │
-              ▼          ▼          ▼
-             VAT       QR CODE   SIGNATURE
-              │          │          │
-              └──────────┼──────────┘
-                         │
-                         ▼
-                       ZATCA
-                         │
-                         ▼
-                    COMPLIANCE
-```
-
-### Saudi E-Invoicing Experience
-
-* 🇸🇦 Saudi VAT
-* 🧾 Fatoora
-* 🔐 Digital Signature
-* 📱 QR Codes
-* 🔗 ZATCA Integration
-* 🏢 Multi-Branch Scenarios
-* 🔢 Invoice Sequence Management
-* 📊 Centralized Reporting
-
----
-
-# 🏢 MULTI-BRANCH ERP
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1800&pause=500&color=2E9E8B&center=true&vCenter=true&width=900&height=60&lines=40%2B+BRANCHES;CENTRALIZED+ERP;CENTRALIZED+REPORTING;POS+%2B+INVENTORY+%2B+ACCOUNTING;DATA+CONSISTENCY;ZATCA+COMPLIANCE"
-/>
-
-</p>
-
-```text
-                            CENTRAL ERP
-                                │
-           ┌────────────────────┼────────────────────┐
-           │                    │                    │
-           ▼                    ▼                    ▼
-       BRANCH 01            BRANCH 02            BRANCH 03
-           │                    │                    │
-           ▼                    ▼                    ▼
-          POS                 SALES                STOCK
-           │                    │                    │
-           └────────────────────┼────────────────────┘
-                                │
-                                ▼
-                       CENTRAL ACCOUNTING
-                                │
-                                ▼
-                        CENTRAL REPORTING
-                                │
-                                ▼
-                             ZATCA
-```
-
----
-
-# 🚀 SELECTED ERP PROJECTS
-
-<details>
-<summary>🏥 <strong>NESCO COMPANY — ODOO 18 — 30+ USERS</strong></summary>
-
-<br>
-
-### Full ERP Implementation
-
-**Modules**
-
-`Sales` · `Purchase` · `Inventory` · `Accounting` · `HR`
-
-**Additional Scope**
-
-`ZATCA` · `Biometric Integration` · `Custom Workflows`
-
-**Role**
-
-Senior Odoo Techno-Functional Consultant
-
-</details>
-
-<details>
-<summary>🏥 <strong>AL-HADITHI MEDICAL COMPANY — ODOO 19 — 50+ USERS</strong></summary>
-
-<br>
-
-### Medical / Healthcare ERP
-
-**Modules**
-
-`Inventory` · `Sales` · `Accounting` · `Purchasing`
-
-**Scope**
-
-* Requirements
-* Configuration
-* Process Optimization
-* Reporting
-* UAT
-* Training
-
-</details>
-
-<details>
-<summary>🦺 <strong>UNITEDest PEST CONTROL — ODOO 17 — 20 USERS</strong></summary>
-
-<br>
-
-### Service Business ERP
-
-`Sales` · `CRM` · `Accounting`
-
-Focus:
-
-```text
-LEAD
- ↓
-OPPORTUNITY
- ↓
-QUOTATION
- ↓
-SALES
- ↓
-INVOICE
- ↓
-PAYMENT
-```
-
-</details>
-
-<details>
-<summary>🏭 <strong>NPS MANUFACTURING — ODOO 18 — 15 USERS</strong></summary>
-
-<br>
-
-### Manufacturing ERP
-
-`Manufacturing` · `Inventory` · `Sales`
-
-Focus:
-
-```text
-SALES
-  ↓
-FORECAST
-  ↓
-MANUFACTURING
-  ↓
-STOCK
-  ↓
-DELIVERY
-  ↓
-INVOICE
-```
-
-</details>
-
-<details>
-<summary>🏗️ <strong>ABHAJ CONTRACTING — ODOO 19 — 30 USERS</strong></summary>
-
-<br>
-
-### Contracting ERP
-
-`Projects` · `Procurement` · `Financial Management`
-
-Focus:
-
-* Project management
-* Procurement
-* Financial control
-* Operational workflows
-* Reporting
-
-</details>
-
-<details>
-<summary>☁️ <strong>IDNS — ODOO 17 → 19 — ODOO.SH</strong></summary>
-
-<br>
-
-### Upgrade & Optimization
-
-```text
-ODOO 17
-   │
-   ▼
-COMPATIBILITY ANALYSIS
-   │
-   ▼
-CUSTOM MODULE REVIEW
-   │
-   ▼
-DEVELOPMENT FIXES
-   │
-   ▼
-TESTING
-   │
-   ▼
-ODOO 19
-   │
-   ▼
-UAT
-   │
-   ▼
-GO-LIVE
-```
-
-**Scope**
-
-* Odoo.sh
-* Version Upgrade
-* Custom Module Compatibility
-* ZATCA
-* Reporting
-* Testing
-* Training
-* Deployment
-
-</details>
-
----
-
-# 🕐 ODOO VERSION JOURNEY
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=23&duration=1000&pause=350&color=CBA135&center=true&vCenter=true&width=950&height=60&lines=ODOO+10;ODOO+11;ODOO+12;ODOO+13;ODOO+14;ODOO+15;ODOO+16;ODOO+17;ODOO+18;ODOO+19+⭐"
-/>
-
-</p>
-
-```text
-ODOO 10
-   ↓
-ODOO 11
-   ↓
-ODOO 12
-   ↓
-ODOO 13
-   ↓
-ODOO 14
-   ↓
-ODOO 15
-   ↓
-ODOO 16
-   ↓
-ODOO 17
-   ↓
-ODOO 18
-   ↓
-ODOO 19 ⭐
-```
-
-### Experience
-
-`Community` · `Enterprise` · `Odoo.sh` · `Migration` · `Upgrade` · `Customization`
-
----
-
-# 🏆 CERTIFICATIONS
-
-<details>
-<summary>⭐ <strong>ODOO 19 FUNCTIONAL CERTIFICATION — 2026</strong></summary>
-
-<br>
-
-Official Odoo 19 Functional Certification.
-
-</details>
-
-<details>
-<summary>🎓 <strong>B.SC. COMPUTER SCIENCE & INFORMATION SYSTEMS — 2014–2020</strong></summary>
-
-<br>
-
-Omdurman Islamic University
-
-Faculty of Computer Science and Information Systems.
-
-</details>
-
-<details>
-<summary>☁️ <strong>GOOGLE IT SUPPORT PROFESSIONAL CERTIFICATE — 2024</strong></summary>
-
-<br>
-
-Google / Coursera.
-
-</details>
-
-<details>
-<summary>⚙️ <strong>ODOO TECHNICAL PROGRAM — 2024</strong></summary>
-
-<br>
-
-Odoo Technical Training.
-
-</details>
-
----
-
-# 🛠️ TECHNICAL STACK
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,linux,docker,git,github,bash,html,css,js&perline=10"/>
-
-</p>
-
-<br>
-
-```text
-PYTHON        ███████████████████░░░  90%
-ODOO ORM      ███████████████████░░░  90%
-XML           ███████████████████░░░  90%
-POSTGRESQL    █████████████████░░░░░  80%
-LINUX         █████████████████░░░░░  80%
-DOCKER        ████████████████░░░░░░  75%
-JAVASCRIPT    ██████████████░░░░░░░░  65%
-REST API      ███████████████░░░░░░░  70%
-GIT / GITHUB  █████████████████░░░░░  80%
-```
-
----
-
-🔥 GITHUB ACTIVITY
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoohSD&theme=dark&background=150F1E&hide_border=true" width="80%" /> </p>
----
-
-## 🐍 CONTRIBUTION MOTION
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/NoohSD/NoohSD/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoohSD&theme=github_dark"
-    width="95%"
-  />
-</p>
-
----
-
-## ⚡ LIVE CONTRIBUTION FLOW
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                 ⚡ NOOH SULIMAN                          ║
-║            GITHUB CONTRIBUTION SYSTEM                   ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   💻 CODE  ──────►  🔀 COMMIT  ──────►  🚀 PUSH        ║
-║      │                                      │            ║
-║      ▼                                      ▼            ║
-║   🧪 TEST  ◄──────  ⚙️ AUTOMATION  ◄──── 🐙 GITHUB     ║
-║      │                                                   ║
-║      ▼                                                   ║
-║   📊 ACTIVITY ──────► 📈 PROGRESS ──────► 🏆 GROWTH    ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=2200&pause=700&color=2E9E8B&center=true&vCenter=true&width=700&lines=Every+commit+builds+the+system;Every+project+adds+experience;Every+problem+creates+a+better+solution;Keep+building+%E2%9A%A1"
-  />
-</p>
-
-# 💡 IMPLEMENTATION PHILOSOPHY
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2300&pause=700&color=CBA135&center=true&vCenter=true&width=950&height=60&lines=DON'T+CUSTOMIZE+ODOO+JUST+BECAUSE+YOU+CAN.;UNDERSTAND+THE+BUSINESS+FIRST.;CONFIGURE+BEFORE+CUSTOMIZING.;MAXIMUM+BUSINESS+VALUE.;MINIMUM+UNNECESSARY+COMPLEXITY."
-/>
-
-</p>
-
-```text
-                 BUSINESS REQUIREMENT
-                          │
-                          ▼
-                   STANDARD ODOO?
-                    /          \
-                  YES           NO
-                  │              │
-                  ▼              ▼
-             CONFIGURE       WORKAROUND
-                                 │
-                                 ▼
-                           CUSTOMIZATION
-                                 │
-                                 ▼
-                            INTEGRATION
-                                 │
-                                 ▼
-                           BUSINESS VALUE
-```
-
----
-
-# 🌍 INDUSTRIES
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🏭%20MANUFACTURING-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🏥%20HEALTHCARE-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🛒%20RETAIL-291D3B?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🏗️%20CONSTRUCTION-CBA135?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🧹%20SERVICES-2E9E8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🏢%20MULTI--BRANCH-291D3B?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📚 WHAT I CAN HELP WITH
-
-<details>
-<summary>💼 <strong>ERP IMPLEMENTATION</strong></summary>
-
-<br>
-
-* Requirements Gathering
-* Business Analysis
-* Process Mapping
-* Fit-Gap Analysis
-* Functional Design
-* Odoo Configuration
-* UAT
-* Go-Live
-* Training
-
-</details>
-
-<details>
-<summary>🇸🇦 <strong>SAUDI ODOO / ZATCA</strong></summary>
-
-<br>
-
-* Saudi VAT
-* ZATCA
-* Fatoora
-* Phase I
-* Phase II
-* QR Codes
-* Digital Signature
-* E-Invoicing
-* Multi-Branch Scenarios
-
-</details>
-
-<details>
-<summary>🔧 <strong>ODOO TECHNICAL COORDINATION</strong></summary>
-
-<br>
-
-* Python
-* XML
-* JavaScript
-* PostgreSQL
-* Odoo ORM
-* Docker
-* Linux
-* Git
-* REST API
-* Odoo.sh
-
-</details>
-
----
-
-# 🎯 CAREER FOCUS
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=2200&pause=700&color=2E9E8B&center=true&vCenter=true&width=900&height=70&lines=ERP+IMPLEMENTATION;BUSINESS+ANALYSIS;DIGITAL+TRANSFORMATION;ODOO+CONSULTING;PROCESS+OPTIMIZATION;SCALABLE+ERP+SOLUTIONS"
-/>
-
-</p>
-
----
-
-# 📬 LET'S CONNECT
-
-<p align="center">
-
-<a href="mailto:nooh8586@gmail.com">
-<img
-src="https://img.shields.io/badge/EMAIL-nooh8586%40gmail.com-CBA135?style=for-the-badge&logo=gmail&logoColor=white"
-/>
-</a>
-
-<a href="https://www.linkedin.com/in/nooh-suliman-081a302a1/">
-<img
-src="https://img.shields.io/badge/LINKEDIN-NOOH%20SULIMAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
-</a>
-
-<a href="https://github.com/NoohSD">
-<img
-src="https://img.shields.io/badge/GITHUB-NoohSD-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
-</a>
-
-</p>
-
----
-
-# 🚀 INTERACTIVE PORTFOLIO
-
-<p align="center">
-
-<a href="https://github.com/NoohSD">
-
-<img
-src="https://img.shields.io/badge/🚀%20VIEW%20PORTFOLIO-CBA135?style=for-the-badge&labelColor=150F1E"
-/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=2300&pause=700&color=2E9E8B&center=true&vCenter=true&width=900&height=50&lines=Interactive+Lifecycle;Animated+Project+Explorer;Version+Timeline;Dynamic+Counters;Responsive+Design;Odoo+ERP+Showcase"
-/>
-
-</p>
-
----
-
-# ⚡ FINAL
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2600&pause=800&color=CBA135&center=true&vCenter=true&width=950&height=80&lines=BUSINESS+FIRST.;ODOO+SECOND.;TECHNOLOGY+WHEN+IT+CREATES+VALUE.;RESULTS+ALWAYS.+🚀"
-/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<strong>NOOH SULIMAN</strong>
-
-<br>
-
-Senior Odoo Techno-Functional Consultant
-
-<br><br>
-
-🇸🇦 Saudi Arabia · Odoo 19 Certified · ERP Implementation
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:2E9E8B,50:291D3B,100:150F1E&animation=twinkling"
-width="100%"
-/>
-
-</p>
-
-<!-- ========================================================= -->
-
-<!-- END OF README                                              -->
-
-<!-- ========================================================= -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nooh Suliman — Odoo Techno-Functional Consultant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#1C1420;
+    --bg-raised:#241A29;
+    --ink:#F3ECE4;
+    --ink-dim:#B9AEB8;
+    --coral:#FF6B4A;
+    --coral-dim:#7A3626;
+    --gold:#E8B94F;
+    --line:rgba(243,236,228,0.12);
+    --max:1080px;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Space Grotesk', sans-serif;
+    overflow-x:hidden;
+    cursor:none;
+  }
+  ::selection{background:var(--coral); color:#1C1420;}
+  h1,h2,h3{font-family:'Fraunces', serif; font-weight:600; line-height:1.1;}
+  .mono{font-family:'JetBrains Mono', monospace;}
+  a{color:inherit; text-decoration:none;}
+  section{max-width:var(--max); margin:0 auto; padding:140px 32px;}
+
+  /* ---------- custom cursor ---------- */
+  #cursor{
+    position:fixed; width:22px; height:22px; border-radius:50%;
+    border:1.5px solid var(--coral); pointer-events:none; z-index:9999;
+    transform:translate(-50%,-50%); transition:width .18s, height .18s, background .18s, border-color .18s;
+    mix-blend-mode:difference;
+  }
+  #cursor.hover{width:52px; height:52px; background:var(--coral); border-color:transparent;}
+  #glow{
+    position:fixed; width:520px; height:520px; border-radius:50%;
+    pointer-events:none; z-index:0; transform:translate(-50%,-50%);
+    background:radial-gradient(circle, rgba(255,107,74,0.10) 0%, rgba(255,107,74,0) 70%);
+  }
+  @media (hover:none){ #cursor,#glow{display:none;} body{cursor:auto;} }
+
+  /* ---------- nav ---------- */
+  nav{
+    position:fixed; top:0; left:0; right:0; z-index:100;
+    display:flex; justify-content:space-between; align-items:center;
+    padding:22px 40px; backdrop-filter:blur(10px);
+    background:rgba(28,20,32,0.55); border-bottom:1px solid var(--line);
+  }
+  .logo{font-family:'Fraunces', serif; font-weight:600; font-size:1.15rem;}
+  .logo span{color:var(--coral);}
+  .navlinks{display:flex; gap:34px; font-size:0.86rem;}
+  .navlinks a{color:var(--ink-dim); position:relative; padding-bottom:4px;}
+  .navlinks a::after{
+    content:''; position:absolute; left:0; bottom:0; width:0; height:1px;
+    background:var(--coral); transition:width .25s ease;
+  }
+  .navlinks a.active, .navlinks a:hover{color:var(--ink);}
+  .navlinks a.active::after, .navlinks a:hover::after{width:100%;}
+  #navToggle{display:none;}
+
+  /* ---------- hero ---------- */
+  #hero{
+    min-height:100vh; display:flex; flex-direction:column; justify-content:center;
+    position:relative; padding-top:140px;
+  }
+  .eyebrow{
+    font-family:'JetBrains Mono', monospace; font-size:0.8rem; color:var(--gold);
+    letter-spacing:.06em; display:flex; align-items:center; gap:10px; margin-bottom:22px;
+  }
+  .eyebrow .dot{width:7px; height:7px; border-radius:50%; background:var(--gold); animation:pulse 1.8s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;} 50%{opacity:.25;}}
+
+  .hero-title{font-size:clamp(2.6rem, 6vw, 4.6rem); max-width:16ch;}
+  .hero-title .accent{color:var(--coral); font-style:italic;}
+  .hero-sub{margin-top:26px; max-width:56ch; color:var(--ink-dim); font-size:1.1rem;}
+
+  .hero-cta{margin-top:44px; display:flex; gap:18px; flex-wrap:wrap;}
+  .btn{
+    font-family:'Space Grotesk', sans-serif; font-weight:600; font-size:0.92rem;
+    padding:15px 30px; border-radius:100px; border:1px solid var(--line);
+    display:inline-flex; align-items:center; gap:10px; transition:all .25s ease;
+  }
+  .btn-solid{background:var(--coral); color:#1C1420; border-color:var(--coral);}
+  .btn-solid:hover{background:var(--gold); border-color:var(--gold); transform:translateY(-2px);}
+  .btn-ghost:hover{border-color:var(--ink); transform:translateY(-2px);}
+
+  .scroll-cue{
+    position:absolute; bottom:40px; left:32px; font-family:'JetBrains Mono', monospace;
+    font-size:0.72rem; color:var(--ink-dim); display:flex; align-items:center; gap:10px;
+  }
+  .scroll-cue .line{width:34px; height:1px; background:var(--ink-dim); animation:scrollline 1.6s infinite;}
+  @keyframes scrollline{0%{transform:scaleX(0); transform-origin:left;} 50%{transform:scaleX(1); transform-origin:left;} 51%{transform-origin:right;} 100%{transform:scaleX(0); transform-origin:right;}}
+
+  /* ---------- reveal ---------- */
+  .reveal{opacity:0; transform:translateY(28px); transition:opacity .7s ease, transform .7s ease;}
+  .reveal.in{opacity:1; transform:none;}
+
+  /* ---------- section label ---------- */
+  .label{
+    font-family:'JetBrains Mono', monospace; font-size:0.78rem; color:var(--coral);
+    margin-bottom:16px; display:flex; align-items:center; gap:12px;
+  }
+  .label::before{content:''; width:24px; height:1px; background:var(--coral);}
+  .sec-title{font-size:clamp(1.8rem,3vw,2.6rem); margin-bottom:44px;}
+
+  /* ---------- stats ---------- */
+  .stats{
+    display:grid; grid-template-columns:repeat(4,1fr); gap:1px;
+    background:var(--line); border:1px solid var(--line); margin-top:64px;
+  }
+  .stat{background:var(--bg-raised); padding:32px 24px;}
+  .stat .num{font-family:'Fraunces', serif; font-size:2.1rem; color:var(--coral);}
+  .stat .lbl{margin-top:8px; font-size:0.82rem; color:var(--ink-dim);}
+
+  /* ---------- about ---------- */
+  .about-grid{display:grid; grid-template-columns:1.3fr 1fr; gap:64px; align-items:start;}
+  .about-grid p{color:var(--ink-dim); margin-bottom:18px; font-size:1.02rem; line-height:1.75;}
+  .timeline{border-left:1px solid var(--line); padding-left:24px; display:flex; flex-direction:column; gap:22px;}
+  .tl-item{position:relative;}
+  .tl-item::before{
+    content:''; position:absolute; left:-29px; top:5px; width:9px; height:9px;
+    border-radius:50%; background:var(--gold);
+  }
+  .tl-item .yr{font-family:'JetBrains Mono', monospace; font-size:0.76rem; color:var(--gold);}
+  .tl-item .txt{font-size:0.92rem; color:var(--ink-dim); margin-top:4px;}
+
+  /* ---------- skills ---------- */
+  .skill-grid{display:grid; grid-template-columns:repeat(2, 1fr); gap:40px 60px;}
+  .skill-row{margin-bottom:18px;}
+  .skill-row:last-child{margin-bottom:0;}
+  .skill-top{display:flex; justify-content:space-between; font-size:0.9rem; margin-bottom:8px;}
+  .skill-top .pct{font-family:'JetBrains Mono', monospace; color:var(--coral);}
+  .bar-track{height:6px; background:var(--line); border-radius:4px; overflow:hidden;}
+  .bar-fill{height:100%; width:0%; background:linear-gradient(90deg,var(--coral),var(--gold)); border-radius:4px; transition:width 1.4s cubic-bezier(.2,.8,.2,1);}
+
+  /* ---------- services ---------- */
+  .service-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:1px; background:var(--line); border:1px solid var(--line);}
+  .service-card{
+    background:var(--bg-raised); padding:34px 28px; transition:background .3s ease, transform .3s ease;
+    position:relative; overflow:hidden;
+  }
+  .service-card::before{
+    content:''; position:absolute; inset:0; background:radial-gradient(circle at var(--mx,50%) var(--my,50%), rgba(255,107,74,0.14), transparent 60%);
+    opacity:0; transition:opacity .3s ease;
+  }
+  .service-card:hover::before{opacity:1;}
+  .service-card .n{font-family:'JetBrains Mono', monospace; color:var(--gold); font-size:0.8rem;}
+  .service-card h3{font-size:1.1rem; margin-top:14px; margin-bottom:12px;}
+  .service-card p{font-size:0.88rem; color:var(--ink-dim); position:relative; z-index:1;}
+
+  /* ---------- projects ---------- */
+  .project-list{display:flex; flex-direction:column;}
+  .project{
+    display:grid; grid-template-columns:120px 1fr auto; gap:24px; align-items:center;
+    padding:28px 4px; border-top:1px solid var(--line); cursor:pointer; transition:padding-left .3s ease;
+  }
+  .project:last-child{border-bottom:1px solid var(--line);}
+  .project:hover{padding-left:16px;}
+  .project .idx{font-family:'JetBrains Mono', monospace; color:var(--ink-dim); font-size:0.85rem;}
+  .project h4{font-size:1.3rem; transition:color .3s ease;}
+  .project:hover h4{color:var(--coral);}
+  .project .tags{margin-top:6px; display:flex; gap:8px; flex-wrap:wrap;}
+  .tag{font-family:'JetBrains Mono', monospace; font-size:0.68rem; padding:3px 9px; border:1px solid var(--line); border-radius:100px; color:var(--ink-dim);}
+  .project .arrow{font-size:1.4rem; color:var(--ink-dim); transition:transform .3s ease, color .3s ease;}
+  .project:hover .arrow{transform:translateX(6px); color:var(--coral);}
+  .project-detail{
+    max-height:0; overflow:hidden; transition:max-height .4s ease;
+    grid-column:1/-1; font-size:0.9rem; color:var(--ink-dim); padding-left:144px;
+  }
+  .project.open .project-detail{max-height:120px; padding-top:10px;}
+
+  /* ---------- education ---------- */
+  .edu-grid{display:grid; grid-template-columns:repeat(2,1fr); gap:1px; background:var(--line); border:1px solid var(--line);}
+  .edu-card{background:var(--bg-raised); padding:28px;}
+  .edu-card .yr{font-family:'JetBrains Mono', monospace; font-size:0.76rem; color:var(--gold);}
+  .edu-card h4{margin-top:10px; font-size:1rem; font-family:'Space Grotesk'; font-weight:600;}
+  .edu-card p{margin-top:6px; font-size:0.85rem; color:var(--ink-dim);}
+
+  /* ---------- contact ---------- */
+  #contact{text-align:center;}
+  #contact h2{font-size:clamp(2rem,5vw,3.4rem); max-width:16ch; margin:0 auto 24px;}
+  #contact p{color:var(--ink-dim); max-width:50ch; margin:0 auto;}
+  .big-link{
+    display:inline-block; margin-top:44px; font-family:'Fraunces', serif; font-size:clamp(1.6rem,4vw,2.4rem);
+    border-bottom:2px solid var(--coral); padding-bottom:6px; transition:color .3s ease;
+  }
+  .big-link:hover{color:var(--coral);}
+  .contact-meta{margin-top:44px; display:flex; justify-content:center; gap:40px; flex-wrap:wrap; font-family:'JetBrains Mono', monospace; font-size:0.82rem; color:var(--ink-dim);}
+
+  footer{
+    border-top:1px solid var(--line); padding:32px; display:flex; justify-content:space-between;
+    max-width:var(--max); margin:0 auto; font-size:0.78rem; color:var(--ink-dim); flex-wrap:wrap; gap:10px;
+  }
+
+  @media (max-width:860px){
+    .navlinks{display:none;}
+    .stats{grid-template-columns:repeat(2,1fr);}
+    .about-grid{grid-template-columns:1fr;}
+    .skill-grid{grid-template-columns:1fr;}
+    .service-grid{grid-template-columns:1fr;}
+    .edu-grid{grid-template-columns:1fr;}
+    .project{grid-template-columns:50px 1fr auto;}
+    .project-detail{padding-left:0;}
+    section{padding:96px 20px;}
+  }
+</style>
+</head>
+<body>
+
+<div id="cursor"></div>
+<div id="glow"></div>
+
+<nav>
+  <div class="logo">Nooh<span>.</span></div>
+  <div class="navlinks">
+    <a href="#hero" data-nav>Home</a>
+    <a href="#about" data-nav>About</a>
+    <a href="#skills" data-nav>Skills</a>
+    <a href="#services" data-nav>Services</a>
+    <a href="#projects" data-nav>Work</a>
+    <a href="#contact" data-nav>Contact</a>
+  </div>
+</nav>
+
+<section id="hero">
+  <div class="eyebrow"><span class="dot"></span>AVAILABLE FOR NEW ODOO PROJECTS</div>
+  <h1 class="hero-title">Odoo systems, built to<br><span class="accent">actually</span> run the business.</h1>
+  <p class="hero-sub">I'm Nooh Suliman — a Techno-Functional Consultant based in Al Khobar, Saudi Arabia. I lead ERP implementations end to end: requirements, configuration, ZATCA compliance, training, and the stuff that happens after Go-Live.</p>
+  <div class="hero-cta">
+    <a href="#projects" class="btn btn-solid" data-hover>See the work →</a>
+    <a href="#contact" class="btn btn-ghost" data-hover>Get in touch</a>
+  </div>
+  <div class="scroll-cue"><div class="line"></div>SCROLL</div>
+</section>
+
+<section id="about">
+  <div class="label">01 / OVERVIEW</div>
+  <h2 class="sec-title reveal">Bridging business needs and technical systems</h2>
+  <div class="about-grid">
+    <div class="reveal">
+      <p>With hands-on experience across manufacturing, medical, contracting, and service industries, I help businesses turn operational requirements into scalable Odoo solutions — spanning requirements gathering, gap analysis, configuration, integrations, training, and post-Go-Live support.</p>
+      <p>My work has included full migrations across major versions, ZATCA compliance rollouts, and supporting organizations running 40+ branches on a single system.</p>
+    </div>
+    <div class="timeline reveal">
+      <div class="tl-item"><div class="yr">2020</div><div class="txt">Technical Support — building a foundation in systems and troubleshooting.</div></div>
+      <div class="tl-item"><div class="yr">2021 – 2023</div><div class="txt">Odoo Functional Consultant — requirements, gap analysis, delivery.</div></div>
+      <div class="tl-item"><div class="yr">2024 – 2025</div><div class="txt">Led a full Odoo v10 → v17 migration and two-phase ZATCA integration.</div></div>
+      <div class="tl-item"><div class="yr">2025 — Present</div><div class="txt">Odoo Techno-Functional Consultant at EPA, Al Khobar.</div></div>
+    </div>
+  </div>
+
+  <div class="stats reveal">
+    <div class="stat"><div class="num">7+</div><div class="lbl">ERP implementations</div></div>
+    <div class="stat"><div class="num">v10→v19</div><div class="lbl">Odoo version range</div></div>
+    <div class="stat"><div class="num">I & II</div><div class="lbl">ZATCA phases delivered</div></div>
+    <div class="stat"><div class="num">40+</div><div class="lbl">Branches supported</div></div>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="label">02 / TOOLKIT</div>
+  <h2 class="sec-title reveal">Where I add the most value</h2>
+  <div class="skill-grid reveal">
+    <div>
+      <div class="skill-row" data-pct="95"><div class="skill-top"><span>ERP Implementation & Configuration</span><span class="pct">95%</span></div><div class="bar-track"><div class="bar-fill"></div></div></div>
+      <div class="skill-row" data-pct="90"><div class="skill-top"><span>Business & Gap Analysis</span><span class="pct">90%</span></div><div class="bar-track"><div class="bar-fill"></div></div></div>
+      <div class="skill-row" data-pct="88"><div class="skill-top"><span>ZATCA & Regulatory Compliance</span><span class="pct">88%</span></div><div class="bar-track"><div class="bar-fill"></div></div></div>
+    </div>
+    <div>
+      <div class="skill-row" data-pct="92"><div class="skill-top"><span>System Migration & Upgrades</span><span class="pct">92%</span></div><div class="bar-track"><div class="bar-fill"></div></div></div>
+      <div class="skill-row" data-pct="85"><div class="skill-top"><span>User Training & Documentation</span><span class="pct">85%</span></div><div class="bar-track"><div class="bar-fill"></div></div></div>
+      <div class="skill-row" data-pct="87"><div class="skill-top"><span>Post-Go-Live Support</span><span class="pct">87%</span></div><div class="bar-track"><div class="bar-fill"></div></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="services">
+  <div class="label">03 / SERVICES</div>
+  <h2 class="sec-title reveal">Consulting & delivery</h2>
+  <div class="service-grid reveal">
+    <div class="service-card" data-tilt><div class="n">01</div><h3>Requirements & Gap Analysis</h3><p>Mapping current processes and defining a scope that fits operational reality.</p></div>
+    <div class="service-card" data-tilt><div class="n">02</div><h3>Odoo Implementation</h3><p>Sales, CRM, Inventory, Accounting, POS, and Manufacturing — configured around how the business works.</p></div>
+    <div class="service-card" data-tilt><div class="n">03</div><h3>Migration & Upgrades</h3><p>Moving businesses forward across Odoo versions without losing data integrity.</p></div>
+    <div class="service-card" data-tilt><div class="n">04</div><h3>ZATCA Compliance</h3><p>Phase I & II e-invoicing integration built into ERP workflows.</p></div>
+    <div class="service-card" data-tilt><div class="n">05</div><h3>Training & Documentation</h3><p>Making sure teams actually adopt the system, not just switch it on.</p></div>
+    <div class="service-card" data-tilt><div class="n">06</div><h3>Post-Go-Live Support</h3><p>Stabilizing operations after launch with ongoing functional support.</p></div>
+  </div>
+</section>
+
+<section id="projects">
+  <div class="label">04 / SELECTED WORK</div>
+  <h2 class="sec-title reveal">Flagship rollouts</h2>
+  <div class="project-list reveal">
+    <div class="project" data-toggle>
+      <span class="idx">01</span>
+      <div><h4>Nesco Company</h4><div class="tags"><span class="tag">Odoo v18</span><span class="tag">50+ users</span></div></div>
+      <span class="arrow">↗</span>
+      <div class="project-detail">Full ERP rollout across all core modules, integrated with ZATCA and biometric systems.</div>
+    </div>
+    <div class="project" data-toggle>
+      <span class="idx">02</span>
+      <div><h4>Al-Hadithi Medical Co.</h4><div class="tags"><span class="tag">Odoo v19</span><span class="tag">80+ users</span></div></div>
+      <span class="arrow">↗</span>
+      <div class="project-detail">Full ERP for medical operations — Inventory, Sales, Accounting, Purchasing.</div>
+    </div>
+    <div class="project" data-toggle>
+      <span class="idx">03</span>
+      <div><h4>Khafif Food Company</h4><div class="tags"><span class="tag">v10 → v17</span><span class="tag">ZATCA I & II</span></div></div>
+      <span class="arrow">↗</span>
+      <div class="project-detail">Full version migration plus two-phase ZATCA compliance integration.</div>
+    </div>
+    <div class="project" data-toggle>
+      <span class="idx">04</span>
+      <div><h4>Unitedest</h4><div class="tags"><span class="tag">Odoo v17</span><span class="tag">20 users</span></div></div>
+      <span class="arrow">↗</span>
+      <div class="project-detail">Sales, CRM, and Accounting rollout for a pest-control service business.</div>
+    </div>
+    <div class="project" data-toggle>
+      <span class="idx">05</span>
+      <div><h4>NPS Company</h4><div class="tags"><span class="tag">Manufacturing</span></div></div>
+      <span class="arrow">↗</span>
+      <div class="project-detail">Production, inventory, and sales configuration for manufacturing operations.</div>
+    </div>
+    <div class="project" data-toggle>
+      <span class="idx">06</span>
+      <div><h4>Abhaj Contracting</h4><div class="tags"><span class="tag">Project & Procurement</span></div></div>
+      <span class="arrow">↗</span>
+      <div class="project-detail">ERP configuration for project tracking, procurement, and finance.</div>
+    </div>
+  </div>
+</section>
+
+<section id="education">
+  <div class="label">05 / EDUCATION</div>
+  <h2 class="sec-title reveal">Qualifications</h2>
+  <div class="edu-grid reveal">
+    <div class="edu-card"><div class="yr">2026</div><h4>Odoo 19 Functional Certification</h4><p>Coursera</p></div>
+    <div class="edu-card"><div class="yr">2014–2020</div><h4>B.Sc. Computer Science & Information Systems</h4><p>Omdurman Islamic University, Sudan</p></div>
+    <div class="edu-card"><div class="yr">2024</div><h4>Google IT Support Professional Certificate</h4><p>Coursera / Google</p></div>
+    <div class="edu-card"><div class="yr">2024</div><h4>Odoo Technical – Experience Accelerate Program</h4><p>Technical delivery track</p></div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="label" style="justify-content:center;">06 / CONTACT</div>
+  <h2 class="reveal">Planning an Odoo implementation or upgrade?</h2>
+  <p class="reveal">Let's talk about your requirements and how Odoo can be configured to fit your operations.</p>
+  <a href="mailto:nooh8586@gmail.com" class="big-link reveal" data-hover>nooh8586@gmail.com</a>
+  <div class="contact-meta reveal">
+    <span>+966 543 695 851</span>
+    <span>Al Khobar, Saudi Arabia</span>
+    <a href="https://linkedin.com/in/nooh-suliman-081a302a1/" target="_blank" data-hover>LinkedIn</a>
+  </div>
+</section>
+
+<footer>
+  <span>© 2026 Nooh Suliman</span>
+  <span>Odoo Techno-Functional Consultant</span>
+</footer>
+
+<script>
+  // custom cursor
+  const cursor = document.getElementById('cursor');
+  const glow = document.getElementById('glow');
+  window.addEventListener('mousemove', e=>{
+    cursor.style.left = e.clientX+'px'; cursor.style.top = e.clientY+'px';
+    glow.style.left = e.clientX+'px'; glow.style.top = e.clientY+'px';
+  });
+  document.querySelectorAll('[data-hover], a, .service-card, .project').forEach(el=>{
+    el.addEventListener('mouseenter', ()=>cursor.classList.add('hover'));
+    el.addEventListener('mouseleave', ()=>cursor.classList.remove('hover'));
+  });
+
+  // scroll reveal
+  const io = new IntersectionObserver(entries=>{
+    entries.forEach(en=>{ if(en.isIntersecting){ en.target.classList.add('in'); } });
+  }, {threshold:0.15});
+  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+  // skill bars animate on view
+  const skillIo = new IntersectionObserver(entries=>{
+    entries.forEach(en=>{
+      if(en.isIntersecting){
+        const fill = en.target.querySelector('.bar-fill');
+        fill.style.width = en.target.dataset.pct + '%';
+        skillIo.unobserve(en.target);
+      }
+    });
+  }, {threshold:0.4});
+  document.querySelectorAll('.skill-row').forEach(el=>skillIo.observe(el));
+
+  // active nav highlight
+  const navLinks = document.querySelectorAll('[data-nav]');
+  const sections = Array.from(navLinks).map(l=>document.querySelector(l.getAttribute('href')));
+  function setActive(){
+    let current = sections[0];
+    const y = window.scrollY + 160;
+    sections.forEach(s=>{ if(s.offsetTop <= y) current = s; });
+    navLinks.forEach(l=> l.classList.toggle('active', l.getAttribute('href') === '#'+current.id));
+  }
+  document.addEventListener('scroll', setActive, {passive:true});
+  setActive();
+
+  // service card cursor-follow glow
+  document.querySelectorAll('.service-card').forEach(card=>{
+    card.addEventListener('mousemove', e=>{
+      const r = card.getBoundingClientRect();
+      card.style.setProperty('--mx', (e.clientX-r.left)+'px');
+      card.style.setProperty('--my', (e.clientY-r.top)+'px');
+    });
+  });
+
+  // project expand on click
+  document.querySelectorAll('[data-toggle]').forEach(p=>{
+    p.addEventListener('click', ()=> p.classList.toggle('open'));
+  });
+</script>
+
+</body>
+</html>
