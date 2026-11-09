@@ -59,7 +59,7 @@ I turn business requirements into **practical, scalable Odoo solutions** — and
 ## 🧭 How I Deliver
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, sans-serif','lineColor':'#A79BB8'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, sans-serif','lineColor':'#A78BFA'}}}%%
 flowchart LR
     A([🏢 Business]) --> B[🔎 Requirements]
     B --> C[🗺️ AS-IS → TO-BE]
@@ -72,12 +72,20 @@ flowchart LR
     H --> I([🚀 Go-Live])
     I --> J[📈 Hypercare & Optimize]
 
-    classDef dark fill:#291D3B,stroke:#CBA135,color:#E9E4EE
-    classDef gold fill:#CBA135,stroke:#150F1E,color:#150F1E,font-weight:bold
-    classDef teal fill:#2E9E8B,stroke:#150F1E,color:#FFFFFF
+    classDef gold fill:#FBBF24,stroke:#FDE68A,stroke-width:2px,color:#1F1300,font-weight:bold
+    classDef violet fill:#8B5CF6,stroke:#DDD6FE,stroke-width:2px,color:#FFFFFF
+    classDef blue fill:#3B82F6,stroke:#BFDBFE,stroke-width:2px,color:#FFFFFF
+    classDef teal fill:#14B8A6,stroke:#99F6E4,stroke-width:2px,color:#FFFFFF,font-weight:bold
+    classDef green fill:#22C55E,stroke:#BBF7D0,stroke-width:2px,color:#FFFFFF
+    classDef pink fill:#EC4899,stroke:#FBCFE8,stroke-width:2px,color:#FFFFFF
+    classDef orange fill:#F97316,stroke:#FED7AA,stroke-width:2px,color:#FFFFFF
     class A,I gold
-    class D,F teal
-    class B,C,E,G,H,J dark
+    class B violet
+    class C,H blue
+    class D teal
+    class E,J green
+    class F pink
+    class G orange
 ```
 
 <details>
@@ -105,12 +113,18 @@ flowchart TD
     C --> V([✅ Business Value])
     W --> V
     X --> V
-    classDef q fill:#2E9E8B,color:#fff,stroke:#150F1E
-    classDef v fill:#CBA135,color:#150F1E,stroke:#150F1E
-    classDef n fill:#291D3B,color:#E9E4EE,stroke:#CBA135
+    classDef q fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:2px,font-weight:bold
+    classDef v fill:#FBBF24,color:#1F1300,stroke:#FDE68A,stroke-width:2px,font-weight:bold
+    classDef r fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px
+    classDef c fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:2px
+    classDef w fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
+    classDef x fill:#EC4899,color:#FFFFFF,stroke:#FBCFE8,stroke-width:2px
     class S q
     class V v
-    class R,C,W,X n
+    class R r
+    class C c
+    class W w
+    class X x
 ```
 
 Security groups · approval workflows · accounting flows · reports · dashboards · integrations
@@ -151,7 +165,7 @@ Security groups · approval workflows · accounting flows · reports · dashboar
 <br>
 
 ```mermaid
-%%{init: {'theme':'base','gitGraph':{'mainBranchName':'odoo','showCommitLabel':true},'themeVariables':{'git0':'#291D3B','git1':'#2E9E8B','git2':'#CBA135','git3':'#7FB8A5','commitLabelColor':'#E9E4EE','commitLabelBackground':'#150F1E'}}}%%
+%%{init: {'theme':'base','gitGraph':{'mainBranchName':'odoo','showCommitLabel':true},'themeVariables':{'git0':'#8B5CF6','git1':'#14B8A6','git2':'#FBBF24','git3':'#EC4899','gitBranchLabel0':'#FFFFFF','gitBranchLabel1':'#FFFFFF','gitBranchLabel2':'#1F1300','gitBranchLabel3':'#FFFFFF','commitLabelColor':'#FFFFFF','commitLabelBackground':'#3B82F6'}}}%%
 gitGraph
     commit id: "Odoo 10"
     commit id: "Odoo 14"
@@ -217,8 +231,18 @@ Project tracking, procurement and financial control for a contracting business.
 ```mermaid
 flowchart LR
     S[Sales] --> F[Forecast] --> M[Manufacturing] --> K[Stock] --> D[Delivery] --> I[Invoice]
-    classDef a fill:#291D3B,color:#E9E4EE,stroke:#2E9E8B
-    class S,F,M,K,D,I a
+    classDef s1 fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px
+    classDef s2 fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
+    classDef s3 fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:2px
+    classDef s4 fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:2px
+    classDef s5 fill:#F97316,color:#FFFFFF,stroke:#FED7AA,stroke-width:2px
+    classDef s6 fill:#FBBF24,color:#1F1300,stroke:#FDE68A,stroke-width:2px,font-weight:bold
+    class S s1
+    class F s2
+    class M s3
+    class K s4
+    class D s5
+    class I s6
 ```
 
 </details>
@@ -230,8 +254,18 @@ flowchart LR
 ```mermaid
 flowchart LR
     L[Lead] --> O[Opportunity] --> Q[Quotation] --> S[Sale] --> I[Invoice] --> P[Payment]
-    classDef a fill:#2E9E8B,color:#fff,stroke:#150F1E
-    class L,O,Q,S,I,P a
+    classDef s1 fill:#EC4899,color:#FFFFFF,stroke:#FBCFE8,stroke-width:2px
+    classDef s2 fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px
+    classDef s3 fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
+    classDef s4 fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:2px
+    classDef s5 fill:#F97316,color:#FFFFFF,stroke:#FED7AA,stroke-width:2px
+    classDef s6 fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:2px,font-weight:bold
+    class L s1
+    class O s2
+    class Q s3
+    class S s4
+    class I s5
+    class P s6
 ```
 
 </details>
@@ -258,10 +292,16 @@ flowchart LR
     Q --> Z
     X --> Z
     Z --> C([✅ Compliant])
-    classDef o fill:#291D3B,color:#E9E4EE,stroke:#CBA135
-    classDef z fill:#2E9E8B,color:#fff,stroke:#150F1E
-    classDef c fill:#CBA135,color:#150F1E,stroke:#150F1E
-    class O,V,Q,X o
+    classDef inv fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px,font-weight:bold
+    classDef vat fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
+    classDef qr fill:#EC4899,color:#FFFFFF,stroke:#FBCFE8,stroke-width:2px
+    classDef xml fill:#F97316,color:#FFFFFF,stroke:#FED7AA,stroke-width:2px
+    classDef z fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:3px,font-weight:bold
+    classDef c fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:3px,font-weight:bold
+    class O inv
+    class V vat
+    class Q qr
+    class X xml
     class Z z
     class C c
 ```
