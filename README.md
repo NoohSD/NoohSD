@@ -3,26 +3,26 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:150F1E,50:291D3B,100:2E9E8B&text=NOOH%20SULIMAN&fontSize=60&fontColor=E9E4EE&fontAlignY=38&animation=twinkling&desc=Senior%20Odoo%20Techno-Functional%20Consultant%20%E2%80%A2%20DWP%20IT%20Arabia&descAlignY=62&descSize=17&descColor=CBA135" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1F3A32,50:3E6B5D,100:17A398&text=NOOH%20SULIMAN&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Senior%20Odoo%20Techno-Functional%20Consultant%20%E2%80%A2%20DWP%20IT%20Arabia&descAlignY=62&descSize=17&descColor=C7781C" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1600&pause=700&color=CBA135&center=true&vCenter=true&width=900&height=70&lines=Senior+Odoo+Techno-Functional+Consultant;Odoo+19+Certified+%E2%80%A2+Building+on+Odoo+20;ZATCA+Phase+I+%26+II+%E2%80%A2+Fatoora;Business+First.+Odoo+Second.+Code+When+It+Pays." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=1600&pause=700&color=C7781C&center=true&vCenter=true&width=900&height=70&lines=Senior+Odoo+Techno-Functional+Consultant;Odoo+19+Certified+%E2%80%A2+Building+on+Odoo+20;ZATCA+Phase+I+%26+II+%E2%80%A2+Fatoora;Business+First.+Odoo+Second.+Code+When+It+Pays." alt="typing"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nooh-suliman-081a302a1/"><img src="https://img.shields.io/badge/LinkedIn-Nooh%20Suliman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nooh8586@gmail.com"><img src="https://img.shields.io/badge/Email-nooh8586%40gmail.com-CBA135?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NoohSD&label=Profile%20Views&color=2E9E8B&style=for-the-badge"/>
+  <a href="mailto:nooh8586@gmail.com"><img src="https://img.shields.io/badge/Email-nooh8586%40gmail.com-C7781C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NoohSD&label=Profile%20Views&color=17A398&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo%2019-Certified-CBA135?style=flat-square&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo%2020-Ready-2E9E8B?style=flat-square&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Odoo-10%20%E2%86%92%2020-291D3B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ZATCA-Phase%20I%20%26%20II-2E9E8B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Saudi%20Council%20of%20Engineers-Member-CBA135?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Based%20in-Saudi%20Arabia%20%F0%9F%87%B8%F0%9F%87%A6-291D3B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Odoo%2019-Certified-C7781C?style=flat-square&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo%2020-Ready-17A398?style=flat-square&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-10%20%E2%86%92%2020-3E6B5D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ZATCA-Phase%20I%20%26%20II-17A398?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Saudi%20Council%20of%20Engineers-Member-C7781C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based%20in-Saudi%20Arabia%20%F0%9F%87%B8%F0%9F%87%A6-3E6B5D?style=flat-square"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 I turn business requirements into **practical, scalable Odoo solutions** — and I can take them all the way from the first workshop to the last line of Python.
 
 - 🏢 **Now:** Senior Odoo Techno-Functional Consultant at **DWP IT Arabia**
-- 🧠 **5+ years** in Odoo · **7+ full ERP implementations** · **100+ training sessions**
+- 🧠 **5+ years** in Odoo · **10+ ERP implementations** · **100+ training sessions**
 - 🇸🇦 Deep in Saudi localization: **ZATCA / Fatoora**, Saudi VAT, bilingual Arabic/English documents
 - 🔧 Functional lead who also **builds the modules**: integrations, approval workflows, inventory logic, QWeb reports
 - 📈 Currently working on **Odoo 20** and helping clients upgrade from 17
@@ -47,8 +47,8 @@ I turn business requirements into **practical, scalable Odoo solutions** — and
 <table align="center">
   <tr>
     <td align="center" width="160"><h2>5+</h2><sub>Years in Odoo</sub></td>
-    <td align="center" width="160"><h2>7+</h2><sub>ERP Implementations</sub></td>
-    <td align="center" width="160"><h2>40+</h2><sub>Branches Supported</sub></td>
+    <td align="center" width="160"><h2>10+</h2><sub>ERP Implementations</sub></td>
+    <td align="center" width="160"><h2>60+</h2><sub>Branches Supported</sub></td>
     <td align="center" width="160"><h2>100+</h2><sub>Training Sessions</sub></td>
     <td align="center" width="160"><h2>10→20</h2><sub>Odoo Versions</sub></td>
   </tr>
@@ -59,7 +59,7 @@ I turn business requirements into **practical, scalable Odoo solutions** — and
 ## 🧭 How I Deliver
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, sans-serif','lineColor':'#A78BFA'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, sans-serif','lineColor':'#2BCFC1'}}}%%
 flowchart LR
     A([🏢 Business]) --> B[🔎 Requirements]
     B --> C[🗺️ AS-IS → TO-BE]
@@ -72,13 +72,13 @@ flowchart LR
     H --> I([🚀 Go-Live])
     I --> J[📈 Hypercare & Optimize]
 
-    classDef gold fill:#FBBF24,stroke:#FDE68A,stroke-width:2px,color:#1F1300,font-weight:bold
-    classDef violet fill:#8B5CF6,stroke:#DDD6FE,stroke-width:2px,color:#FFFFFF
-    classDef blue fill:#3B82F6,stroke:#BFDBFE,stroke-width:2px,color:#FFFFFF
-    classDef teal fill:#14B8A6,stroke:#99F6E4,stroke-width:2px,color:#FFFFFF,font-weight:bold
-    classDef green fill:#22C55E,stroke:#BBF7D0,stroke-width:2px,color:#FFFFFF
-    classDef pink fill:#EC4899,stroke:#FBCFE8,stroke-width:2px,color:#FFFFFF
-    classDef orange fill:#F97316,stroke:#FED7AA,stroke-width:2px,color:#FFFFFF
+    classDef gold fill:#C7781C,stroke:#F3C58A,stroke-width:2px,color:#FFFFFF,font-weight:bold
+    classDef violet fill:#3E6B5D,stroke:#9FD9D1,stroke-width:2px,color:#FFFFFF
+    classDef blue fill:#2E8B7A,stroke:#9FD9D1,stroke-width:2px,color:#FFFFFF
+    classDef teal fill:#2BCFC1,stroke:#E6FAF7,stroke-width:2px,color:#12302A,font-weight:bold
+    classDef green fill:#8FDCD3,stroke:#3E6B5D,stroke-width:2px,color:#12302A
+    classDef pink fill:#E9A23B,stroke:#FCE3BE,stroke-width:2px,color:#12302A
+    classDef orange fill:#B5651D,stroke:#F3C58A,stroke-width:2px,color:#FFFFFF
     class A,I gold
     class B violet
     class C,H blue
@@ -113,12 +113,12 @@ flowchart TD
     C --> V([✅ Business Value])
     W --> V
     X --> V
-    classDef q fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:2px,font-weight:bold
-    classDef v fill:#FBBF24,color:#1F1300,stroke:#FDE68A,stroke-width:2px,font-weight:bold
-    classDef r fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px
-    classDef c fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:2px
-    classDef w fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
-    classDef x fill:#EC4899,color:#FFFFFF,stroke:#FBCFE8,stroke-width:2px
+    classDef q fill:#2BCFC1,color:#12302A,stroke:#E6FAF7,stroke-width:2px,font-weight:bold
+    classDef v fill:#C7781C,color:#FFFFFF,stroke:#F3C58A,stroke-width:2px,font-weight:bold
+    classDef r fill:#3E6B5D,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px
+    classDef c fill:#8FDCD3,color:#12302A,stroke:#3E6B5D,stroke-width:2px
+    classDef w fill:#2E8B7A,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px
+    classDef x fill:#E9A23B,color:#12302A,stroke:#FCE3BE,stroke-width:2px
     class S q
     class V v
     class R r
@@ -165,7 +165,7 @@ Security groups · approval workflows · accounting flows · reports · dashboar
 <br>
 
 ```mermaid
-%%{init: {'theme':'base','gitGraph':{'mainBranchName':'odoo','showCommitLabel':true},'themeVariables':{'git0':'#8B5CF6','git1':'#14B8A6','git2':'#FBBF24','git3':'#EC4899','gitBranchLabel0':'#FFFFFF','gitBranchLabel1':'#FFFFFF','gitBranchLabel2':'#1F1300','gitBranchLabel3':'#FFFFFF','commitLabelColor':'#FFFFFF','commitLabelBackground':'#3B82F6'}}}%%
+%%{init: {'theme':'base','gitGraph':{'mainBranchName':'odoo','showCommitLabel':true},'themeVariables':{'git0':'#3E6B5D','git1':'#2BCFC1','git2':'#C7781C','git3':'#2E8B7A','gitBranchLabel0':'#FFFFFF','gitBranchLabel1':'#12302A','gitBranchLabel2':'#FFFFFF','gitBranchLabel3':'#FFFFFF','commitLabelColor':'#FFFFFF','commitLabelBackground':'#3E6B5D'}}}%%
 gitGraph
     commit id: "Odoo 10"
     commit id: "Odoo 14"
@@ -201,18 +201,18 @@ gitGraph
 ## 🚀 ERP Implementations
 
 <details>
-<summary>🏭 <b>Nesco Company</b> · Odoo 18 · 30+ users</summary>
+<summary>🏭 <b>Nesco Company</b> · Odoo 18 · 50+ users · 61+ branches</summary>
 <br>
 
-Full ERP across Sales, Purchase, Inventory, Accounting and HR — with **ZATCA**, **biometric attendance integration**, multi-level purchase approvals, scrap approval, POS analytic accounts and bilingual user guides for every custom flow.
+Multi-branch ERP across 61+ branches: Sales, Purchase, Inventory, Accounting and HR — with **ZATCA**, **biometric attendance integration**, multi-level purchase approvals, scrap approval, POS analytic accounts and bilingual user guides for every custom flow.
 
 </details>
 
 <details>
-<summary>🏥 <b>Al-Hadithi Medical</b> · Odoo 19 · 50+ users</summary>
+<summary>🏥 <b>Al-Hadithi Medical</b> · Odoo 19 · 80+ users</summary>
 <br>
 
-Medical-distribution ERP: Inventory, Sales, Purchasing and Accounting — tighter stock control and cleaner financial processes.
+ERP for a medical supplies company: Inventory, Sales, Purchasing and Accounting, with customized purchasing and business workflows.
 
 </details>
 
@@ -225,18 +225,20 @@ Project tracking, procurement and financial control for a contracting business.
 </details>
 
 <details>
-<summary>🏭 <b>NPS Manufacturing</b> · Odoo 18 · 15 users</summary>
+<summary>🏭 <b>NPS</b> · Odoo 17 · Coffee manufacturing</summary>
 <br>
+
+Production, inventory, sales and manufacturing cost processes.
 
 ```mermaid
 flowchart LR
     S[Sales] --> F[Forecast] --> M[Manufacturing] --> K[Stock] --> D[Delivery] --> I[Invoice]
-    classDef s1 fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px
-    classDef s2 fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
-    classDef s3 fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:2px
-    classDef s4 fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:2px
-    classDef s5 fill:#F97316,color:#FFFFFF,stroke:#FED7AA,stroke-width:2px
-    classDef s6 fill:#FBBF24,color:#1F1300,stroke:#FDE68A,stroke-width:2px,font-weight:bold
+    classDef s1 fill:#3E6B5D,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px
+    classDef s2 fill:#2E8B7A,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px
+    classDef s3 fill:#2BCFC1,color:#12302A,stroke:#E6FAF7,stroke-width:2px
+    classDef s4 fill:#8FDCD3,color:#12302A,stroke:#3E6B5D,stroke-width:2px
+    classDef s5 fill:#B5651D,color:#FFFFFF,stroke:#F3C58A,stroke-width:2px
+    classDef s6 fill:#C7781C,color:#FFFFFF,stroke:#F3C58A,stroke-width:2px,font-weight:bold
     class S s1
     class F s2
     class M s3
@@ -251,15 +253,17 @@ flowchart LR
 <summary>🦺 <b>Unitedest Pest Control</b> · Odoo 17 · 20 users</summary>
 <br>
 
+Sales, CRM, Accounting, Subscriptions, Invoicing and Projects for a pest control service business.
+
 ```mermaid
 flowchart LR
     L[Lead] --> O[Opportunity] --> Q[Quotation] --> S[Sale] --> I[Invoice] --> P[Payment]
-    classDef s1 fill:#EC4899,color:#FFFFFF,stroke:#FBCFE8,stroke-width:2px
-    classDef s2 fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px
-    classDef s3 fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
-    classDef s4 fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:2px
-    classDef s5 fill:#F97316,color:#FFFFFF,stroke:#FED7AA,stroke-width:2px
-    classDef s6 fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:2px,font-weight:bold
+    classDef s1 fill:#E9A23B,color:#12302A,stroke:#FCE3BE,stroke-width:2px
+    classDef s2 fill:#3E6B5D,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px
+    classDef s3 fill:#2E8B7A,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px
+    classDef s4 fill:#2BCFC1,color:#12302A,stroke:#E6FAF7,stroke-width:2px
+    classDef s5 fill:#B5651D,color:#FFFFFF,stroke:#F3C58A,stroke-width:2px
+    classDef s6 fill:#8FDCD3,color:#12302A,stroke:#3E6B5D,stroke-width:2px,font-weight:bold
     class L s1
     class O s2
     class Q s3
@@ -278,6 +282,14 @@ Version upgrade, custom-module compatibility, ZATCA validation, report fixes, us
 
 </details>
 
+<details>
+<summary>🏢 <b>EPA Internal ERP</b> · Odoo 18 · Self-hosted</summary>
+<br>
+
+Internal ERP for EPA, configured and hosted on an external server for centralized operations and remote access.
+
+</details>
+
 ---
 
 ## 🇸🇦 ZATCA / Fatoora
@@ -292,12 +304,12 @@ flowchart LR
     Q --> Z
     X --> Z
     Z --> C([✅ Compliant])
-    classDef inv fill:#8B5CF6,color:#FFFFFF,stroke:#DDD6FE,stroke-width:2px,font-weight:bold
-    classDef vat fill:#3B82F6,color:#FFFFFF,stroke:#BFDBFE,stroke-width:2px
-    classDef qr fill:#EC4899,color:#FFFFFF,stroke:#FBCFE8,stroke-width:2px
-    classDef xml fill:#F97316,color:#FFFFFF,stroke:#FED7AA,stroke-width:2px
-    classDef z fill:#14B8A6,color:#FFFFFF,stroke:#99F6E4,stroke-width:3px,font-weight:bold
-    classDef c fill:#22C55E,color:#FFFFFF,stroke:#BBF7D0,stroke-width:3px,font-weight:bold
+    classDef inv fill:#3E6B5D,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px,font-weight:bold
+    classDef vat fill:#2E8B7A,color:#FFFFFF,stroke:#9FD9D1,stroke-width:2px
+    classDef qr fill:#E9A23B,color:#12302A,stroke:#FCE3BE,stroke-width:2px
+    classDef xml fill:#B5651D,color:#FFFFFF,stroke:#F3C58A,stroke-width:2px
+    classDef z fill:#2BCFC1,color:#12302A,stroke:#E6FAF7,stroke-width:3px,font-weight:bold
+    classDef c fill:#8FDCD3,color:#12302A,stroke:#3E6B5D,stroke-width:3px,font-weight:bold
     class O inv
     class V vat
     class Q qr
@@ -337,10 +349,12 @@ Owned the Odoo 10 → 17 migration, ZATCA Phase I & II, and day-to-day support a
 </details>
 
 <details>
-<summary>⚪ <b>Earlier</b> — Freelance Odoo implementation, functional consulting & technical support · <i>2020 – 2024</i></summary>
+<summary>⚪ <b>Earlier</b> — Freelance · WAJID IT Solutions · Saleh Company · <i>2020 – 2024</i></summary>
 <br>
 
-Freelance implementations in Riyadh, functional consulting and gap analysis, Odoo training, and IT technical support.
+- **Freelance Odoo Implementation** (Riyadh, 2024)
+- **WAJID IT Solutions** — Odoo Functional Consultant: requirements, gap analysis, configuration, training
+- **Saleh Company** — Technical Support & Odoo Administrator: internal Odoo users, configuration and support
 
 </details>
 
@@ -349,20 +363,20 @@ Freelance implementations in Riyadh, functional consulting and gap analysis, Odo
 ## 🧩 Odoo Apps I Work With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Accounting-2E9E8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sales-CBA135?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Purchase-291D3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inventory-2E9E8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Manufacturing-CBA135?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POS-291D3B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accounting-17A398?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sales-C7781C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Purchase-3E6B5D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Inventory-17A398?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manufacturing-C7781C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POS-3E6B5D?style=for-the-badge"/>
   <br>
-  <img src="https://img.shields.io/badge/CRM-CBA135?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-291D3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HR%20%26%20Leaves-2E9E8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Attendance-CBA135?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Website-291D3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Appointments-2E9E8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Studio-CBA135?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRM-C7781C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-3E6B5D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HR%20%26%20Leaves-17A398?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Attendance-C7781C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Website-3E6B5D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Appointments-17A398?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Studio-C7781C?style=for-the-badge"/>
 </p>
 
 ## ⚙️ Tech Stack
@@ -385,15 +399,15 @@ Freelance implementations in Riyadh, functional consulting and gap analysis, Odo
 ## 🌍 Industries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏭%20Manufacturing-CBA135?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏥%20Healthcare-2E9E8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🍔%20Food%20%26%20Beverage-291D3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏗️%20Construction-CBA135?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏭%20Manufacturing-C7781C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏥%20Healthcare-17A398?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🍔%20Food%20%26%20Beverage-3E6B5D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏗️%20Construction-C7781C?style=for-the-badge"/>
   <br>
-  <img src="https://img.shields.io/badge/🏨%20Hospitality%20%26%20Real%20Estate-2E9E8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛒%20Retail%20%26%20Trading-291D3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧹%20Services-CBA135?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤝%20Non--Profit-2E9E8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏨%20Hospitality%20%26%20Real%20Estate-17A398?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛒%20Retail%20%26%20Trading-3E6B5D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧹%20Services-C7781C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝%20Non--Profit-17A398?style=for-the-badge"/>
 </p>
 
 ---
@@ -416,12 +430,12 @@ Freelance implementations in Riyadh, functional consulting and gap analysis, Odo
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NoohSD&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=150F1E&title_color=CBA135&icon_color=2E9E8B&text_color=E9E4EE&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoohSD&layout=compact&hide_border=true&bg_color=150F1E&title_color=CBA135&text_color=E9E4EE"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NoohSD&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F3A32&title_color=C7781C&icon_color=17A398&text_color=FFFFFF&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoohSD&layout=compact&hide_border=true&bg_color=1F3A32&title_color=C7781C&text_color=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=NoohSD&theme=transparent&hide_border=true&ring=CBA135&fire=2E9E8B&currStreakLabel=CBA135&sideLabels=A79BB8&dates=A79BB8&stroke=291D3B"/>
+  <img width="700" src="https://streak-stats.demolab.com?user=NoohSD&theme=transparent&hide_border=true&ring=C7781C&fire=17A398&currStreakLabel=C7781C&sideLabels=9FD9D1&dates=9FD9D1&stroke=3E6B5D"/>
 </p>
 
 <p align="center">
@@ -439,13 +453,13 @@ I help companies in Saudi Arabia and the region with **Odoo implementations, upg
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nooh-suliman-081a302a1/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nooh8586@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-CBA135?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nooh8586@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-C7781C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2400&pause=800&color=2E9E8B&center=true&vCenter=true&width=900&height=60&lines=Business+First.;Odoo+Second.;Technology+When+It+Creates+Value.;Results+Always.+%F0%9F%9A%80" alt="closing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2400&pause=800&color=17A398&center=true&vCenter=true&width=900&height=60&lines=Business+First.;Odoo+Second.;Technology+When+It+Creates+Value.;Results+Always.+%F0%9F%9A%80" alt="closing"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:2E9E8B,50:291D3B,100:150F1E&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:17A398,50:3E6B5D,100:1F3A32&animation=twinkling" width="100%"/>
 </p>
